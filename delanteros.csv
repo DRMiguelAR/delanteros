@@ -1,0 +1,501 @@
+Num,twitter1,twitter2,linkjugador,busquedasus,clubactual,nacionalidad,ligapremium,campeones,altura,patrocinador,nike,goles1819,asistencias1819,minutos1819,golhora,asishora,goahora,goahorapond,seguidoretwitter,edad,edad2,mayor30,posicióncancha,izquierdo,valormill,TweetCount
+1,mbappe,psg,Kylian Mbappé,,FC Paris Saint-Germain,Francia,0,1,1.78,Nike,1,22,12,1918,0.6882168926,0.3753910323,1.063607925,0.6460381249,,20,400,0,Extremo derecho,0,200,51853
+2,neymar,psg,Neymar,7480000,FC Paris Saint-Germain,Brasil,0,1,1.75,Nike,1,20,10,1917,0.6259780908,0.3129890454,0.9389671362,0.5837773206,42200,26,676,0,Extremo izquierdo,1,180,71432
+3,messi,fcbarcelona,Lionel Messi,2740000,FC Barcelona,Argentina,1,1,1.7,adidas,0,26,15,2004,0.7784431138,0.4491017964,1.22754491,0.7340375429,,31,961,1,Extremo derecho,0,160,34264
+4,griezmann,atleti,Antoine Griezmann,1000000,Atlético de Madrid,Francia,1,1,1.76,Puma,0,16,8,2506,0.3830806065,0.1915403033,0.5746209098,0.3572549477,5940,27,729,0,Delantero centro,0,150,3050
+5,hazard,chelsea,Eden Hazard,1220000,Chelsea FC,Bélgica,1,0,1.73,Nike,1,13,10,2152,0.3624535316,0.2788104089,0.6412639405,0.3511758072,5900,28,784,0,Extremo izquierdo,1,150,32682
+6,kane,coys,Harry Kane,2400000,Tottenham Hotspur,Inglaterra,1,1,1.88,Nike,1,20,6,2564,0.4680187207,0.1404056162,0.608424337,0.4238461673,,25,625,0,Delantero centro,0,150,4622
+7,mosalah,lfc,Mohamed Salah,1500000,FC Liverpool,Egipto,1,0,1.75,adidas,0,19,8,2480,0.4596774194,0.1935483871,0.6532258065,0.4237948532,7280,26,676,0,Extremo derecho,0,150,8288
+8,Sterling,mancity,Raheem Sterling,301000,Manchester City,Inglaterra,1,1,1.7,Nike,1,12,12,2286,0.3149606299,0.3149606299,0.6299212598,0.3149606299,1550,24,576,0,Extremo derecho,0,120,9874
+9,dybala,juventus,Paulo Dybala,673000,Juventus de Turín,Argentina,0,1,1.77,adidas,0,7,5,1928,0.2178423237,0.1556016598,0.3734439834,0.209450324,,25,625,0,Media punta,0,110,3738
+10,ronaldo,juventus,Cristiano Ronaldo,9140000,Juventus de Turín,Portugal,0,0,1.87,Nike,1,17,8,2322,0.4392764858,0.2067183463,0.645994832,0.4079203321,,33,1089,1,Extremo izquierdo,1,100,1100841
+11,sane,mancity,Leroy Sané,246000,Manchester City,Alemania,1,1,1.83,Nike,1,11,13,1834,0.3598691385,0.4252998909,0.7851690294,0.3686912624,,23,529,0,Extremo izquierdo,1,100,5584
+12,icardi,inter,Mauro Icardi,246000,Inter de Milán,Argentina,0,1,1.81,Nike,1,14,3,2074,0.4050144648,0.08678881389,0.4918032787,0.3621076355,,25,625,0,Delantero centro,0,100,17571
+13,lukaku,manutd,Romelu Lukaku,450000,Manchester United,Bélgica,1,0,1.9,Puma,0,9,4,1872,0.2884615385,0.1282051282,0.4166666667,0.2668539326,,25,625,0,Delantero centro,0,85,8003
+14,gareth,realmadrid,Gareth Bale,1000000,Real Madrid CF,Gales,1,0,1.85,adidas,0,11,5,1757,0.375640296,0.1707455891,0.546385885,0.3480140433,17800,29,841,0,Extremo derecho,0,80,748
+15,asensio,realmadrid,Marco Asensio,368000,Real Madrid CF,España,1,1,1.82,Nike,1,4,4,1470,0.1632653061,0.1632653061,0.3265306122,0.1632653061,,23,529,0,Extremo izquierdo,1,80,775
+16,dembele,fcbarcelona,Ousmane Dembélé,246000,FC Barcelona,Francia,1,1,1.78,Nike,1,13,5,1791,0.4355108878,0.1675041876,0.6030150754,0.3993751529,,21,441,0,Extremo izquierdo,1,80,2831
+17,firmino,lfc,Roberto Firmino,368000,FC Liverpool,Brasil,1,1,1.81,adidas,0,11,4,2224,0.2967625899,0.1079136691,0.404676259,0.2712998141,0.791,27,729,0,Media punta,0,80,6841
+18,insigne,napoli,Lorenzo Insigne,90500,SSC Napoli,Italia,0,1,1.63,adidas,0,10,6,1972,0.3042596349,0.1825557809,0.4868154158,0.2878501265,,27,729,0,Extremo izquierdo,1,75,3057
+19,aubameyang,arsenal,Pierre-Emerick Aubameyang,201000,FC Arsenal,Gabón,1,0,1.87,Nike,1,17,3,2225,0.4584269663,0.0808988764,0.5393258427,0.4075243025,,29,841,0,Delantero centro,0,75,21710
+20,mane,lfc,Sadio Mané,450000,FC Liverpool,Senegal,1,0,1.74,Nike,1,10,3,2367,0.2534854246,0.07604562738,0.329531052,0.2295609575,,26,676,0,Extremo izquierdo,1,75,30177
+21,aguero,mancity,Sergio Agüero,135000,Manchester City,Argentina,1,1,1.73,Puma,0,16,5,1803,0.5324459235,0.1663893511,0.6988352745,0.4830899811,13200,30,900,0,Delantero centro,0,75,4811
+22,gabriel,mancity,Gabriel Jesus,550000,Manchester City,Brasil,1,1,1.75,,0,15,2,1609,0.5593536358,0.07458048477,0.6339341206,0.4939909638,,21,441,0,Delantero centro,0,70,198
+23,sancho,bvb,Jadon Sancho,135000,Borussia Dortmund,Inglaterra,0,1,1.8,,0,7,13,1528,0.2748691099,0.5104712042,0.7853403141,0.3066356845,,18,324,0,Extremo derecho,0,70,2686
+24,lewandowski,bayern,Robert Lewandowski,450000,FC Bayern de Múnich,Polonia,0,0,1.85,Nike,1,24,7,2305,0.6247288503,0.1822125813,0.8069414317,0.5650637354,1160,30,900,0,Delantero centro,0,70,2631
+25,lacazette,arsenal,Alexandre Lacazette,60500,FC Arsenal,Francia,1,1,1.75,Nike,1,10,8,1710,0.350877193,0.2807017544,0.6315789474,0.3414153361,1060,27,729,0,Delantero centro,0,65,21296
+26,silva,mancity,Bernardo Silva,165000,Manchester City,Portugal,1,0,1.73,adidas,0,8,7,2292,0.2094240838,0.1832460733,0.3926701571,0.2058944644,415,24,576,0,Extremo derecho,0,65,4339
+27,Rashford,manutd,Marcus Rashford,246000,Manchester United,Inglaterra,1,1,1.85,Nike,1,9,6,1791,0.3015075377,0.2010050251,0.5025125628,0.2879566371,,21,441,0,Delantero centro,0,65,7010
+28,werner,dierotenbullen,Timo Werner,40600,RasenBallsport Leipzig,Alemania,0,1,1.81,adidas,0,13,3,1880,0.414893617,0.09574468085,0.5106382979,0.3718622998,,22,484,0,Delantero centro,0,65,80
+29,martial,manutd,Anthony Martial,246000,Manchester United,Francia,1,1,1.83,Nike,1,10,1,1668,0.3597122302,0.03597122302,0.3956834532,0.3160617573,,23,529,0,Extremo izquierdo,1,60,3410
+30,suarez,fcbarcelona,Luis Suárez,368000,FC Barcelona,Uruguay,1,1,1.82,Puma,0,15,7,2223,0.4048582996,0.1889338731,0.5937921727,0.3757448938,,32,1024,1,Delantero centro,0,60,11793
+31,mahrez,mancity,Riyad Mahrez,368000,Manchester City,Argelia,1,0,1.79,Nike,1,9,10,1857,0.2907915994,0.3231017771,0.6138933764,0.2951480278,1500,27,729,0,Extremo derecho,0,60,4526
+32,lemar,atleti,Thomas Lemar,222,Atlético de Madrid,Francia,1,1,1.71,,0,2,4,1831,0.0655379574,0.1310759148,0.1966138722,0.07437453593,,23,529,0,Extremo izquierdo,1,60,495
+33,cavani,psg,Edinson Cavani,368000,FC Paris Saint-Germain,Uruguay,0,1,1.84,Nike,1,20,7,1820,0.6593406593,0.2307692308,0.8901098901,0.6015557476,1810,31,961,1,Delantero centro,0,55,4406
+34,morata,atleti,Álvaro Morata,201000,Atlético de Madrid,España,1,1,1.87,adidas,0,9,0,1498,0.3604806409,0,0.3604806409,0.3118765095,4360,26,676,0,Delantero centro,0,50,4151
+35,pulisic,bvb,Christian Pulisic,15200,Borussia Dortmund,Estados Unidos,0,0,1.72,,0,3,4,1038,0.1734104046,0.2312138728,0.4046242775,0.1812041307,219,20,400,0,Extremo derecho,0,50,601
+36,immobile,lazio,Ciro Immobile,110000,Lazio,Italia,0,1,1.85,adidas,0,14,7,2144,0.3917910448,0.1958955224,0.5876865672,0.3653781654,,28,784,0,Delantero centro,0,50,1904
+37,chiesa,fiorentina,Federico Chiesa,49500,ACF Fiorentina,Italia,0,1,1.75,,0,7,6,1886,0.2226935313,0.1908801697,0.413573701,0.2184040893,,21,441,0,Extremo derecho,0,50,2401
+38,thauvin,marseille,Florian Thauvin,23320,Olympique de Marseille,Francia,0,1,1.79,,0,13,6,1818,0.4290429043,0.198019802,0.6270627063,0.397893722,,26,676,0,Extremo derecho,0,50,785
+39,higuain,chelsea,Gonzalo Higuaín,246000,Chelsea FC,Argentina,1,1,1.84,Nike,1,8,3,1943,0.2470406588,0.09264024704,0.3396809058,0.2262226257,,31,961,1,Delantero centro,0,50,9085
+40,sonny,coys,Heung-min Son,90500,Tottenham Hotspur,Corea del Sur,1,0,1.84,adidas,0,12,9,1811,0.3975704031,0.2981778023,0.6957482054,0.3841691535,,26,676,0,Extremo izquierdo,1,50,2574
+41,coman,bayern,Kingsley Coman,90500,FC Bayern de Múnich,Francia,0,1,1.79,Nike,1,2,1,506,0.2371541502,0.1185770751,0.3557312253,0.22116623,,22,484,0,Extremo izquierdo,1,50,459
+42,depay,ol,Memphis Depay,201000,Olympique Lyonnais,Países Bajos,0,0,1.76,Under Armour,0,6,12,2147,0.1676758267,0.3353516535,0.5030274802,0.1902838034,1320,24,576,0,Delantero centro,0,50,1298
+43,suso,acmilan,Suso,,AC Milan,España,0,1,1.77,,0,6,8,2043,0.1762114537,0.234948605,0.4111600587,0.1841310696,,25,625,0,Extremo derecho,0,50,373
+44,william,chelsea,Willian,,Chelsea FC,Brasil,1,1,1.75,,0,7,6,224,1.875,1.607142857,3.482142857,1.83888443,3370,30,900,0,Extremo derecho,0,50,214
+45,sanchez,manutd,Alexis Sánchez,1500000,Manchester United,Chile,1,0,1.68,Nike,1,2,4,796,0.1507537688,0.3015075377,0.4522613065,0.1710801197,,30,900,0,Extremo izquierdo,1,45,6280
+46,maria,psg,Ángel Di María,74000,FC Paris Saint-Germain,Argentina,0,1,1.8,adidas,0,9,10,2210,0.2443438914,0.2714932127,0.5158371041,0.248004474,,30,900,0,Extremo derecho,0,45,4433
+47,douglascosta,juventus,Douglas Costa,368000,Juventus de Turín,Brasil,0,1,1.72,,0,1,2,866,0.06928406467,0.1385681293,0.207852194,0.07862573631,403,28,784,0,Extremo derecho,0,45,95
+48,bernardeschi,juventus,Federico Bernardeschi,49500,Juventus de Turín,Italia,0,1,1.83,,0,3,2,843,0.2135231317,0.1423487544,0.3558718861,0.2039265864,,24,576,0,Extremo derecho,0,45,569
+49,richarlison,Everton,Richarlison,,FC Everton,Brasil,1,1,1.79,Nike,1,9,2,1760,0.3068181818,0.06818181818,0.375,0.2746424923,117,21,441,0,Extremo izquierdo,1,45,4210
+50,diegocosta,atleti,Diego Costa,673000,Atlético de Madrid,España,1,1,1.86,,0,4,2,1247,0.1924619086,0.09623095429,0.2886928629,0.1794869485,538,30,900,0,Delantero centro,0,40,57
+51,lozano,psv,Hirving Lozano,301000,PSV Eindhoven,México,0,0,1.75,Nike,1,17,9,2341,0.4357112345,0.2306706536,0.6663818881,0.4080653135,,23,529,0,Extremo izquierdo,1,40,792
+52,perisic,inter,Ivan Perisic,201000,Inter de Milán,Croacia,0,0,1.87,,0,3,5,1881,0.0956937799,0.1594896332,0.2551834131,0.104295468,,29,841,0,Extremo izquierdo,1,40,3031
+53,lingard,manutd,Jesse Lingard,368000,Manchester United,Inglaterra,1,1,1.74,Nike,1,5,3,1459,0.2056202879,0.1233721727,0.3289924606,0.1945306544,1220,26,676,0,Extremo derecho,0,40,2303
+54,brandt,bayer04,Julian Brandt,6500,Bayer 04 Leverkusen,Alemania,0,1,1.86,,0,4,6,1736,0.1382488479,0.2073732719,0.3456221198,0.147568995,18.8,22,484,0,Extremo izquierdo,1,40,145
+55,benzema,realmadrid,Karim Benzema,450000,Real Madrid CF,Francia,1,1,1.85,adidas,0,15,6,2607,0.3452243959,0.1380897583,0.4833141542,0.3172961301,,31,961,1,Delantero centro,0,40,12530
+56,jovic,eintracht,Luka Jovic,33100,Eintracht de Francfort,Serbia,0,0,1.81,adidas,0,18,4,1533,0.7045009785,0.156555773,0.8610567515,0.630620726,,21,441,0,Delantero centro,0,40,1240
+57,malcom,fcbarcelona,Malcom,,FC Barcelona,Brasil,1,1,1.71,,0,2,0,447,0.2684563758,0,0.2684563758,0.2322600106,,21,441,0,Extremo derecho,0,40,2520
+58,oyarzabal,realsociedad,Mikel Oyarzabal,12100,Real Sociedad,España,1,1,1.81,,0,6,2,1982,0.1816347124,0.06054490414,0.2421796165,0.1653079967,,21,441,0,Extremo izquierdo,1,40,130
+59,pepe,losc,Nicolas Pépé,33100,LOSC Lille Métropole,Costa de Marfil,0,0,1.83,,0,13,10,1995,0.3909774436,0.3007518797,0.6917293233,0.378812199,,23,529,0,Extremo derecho,0,40,613
+60,alcacer,bvb,Paco Alcácer,165000,Borussia Dortmund,España,0,1,1.75,Nike,1,13,1,803,0.9713574097,0.07471980075,1.04607721,0.8504624512,,25,625,0,Delantero centro,0,40,1199
+61,gnabry,bayern,Serge Gnabry,49500,FC Bayern de Múnich,Alemania,0,1,1.75,Nike,1,4,5,1103,0.2175883953,0.2719854941,0.4895738894,0.2249228356,510,23,529,0,Extremo izquierdo,1,40,2542
+62,muller,bayern,Thomas Müller,165000,FC Bayern de Múnich,Alemania,0,1,1.86,adidas,0,5,7,1995,0.1503759398,0.2105263158,0.3609022556,0.1584861029,,29,841,0,Media punta,0,40,723
+63,plea,borussia,Alassane Plea,33100,Borussia Mönchengladbach,Francia,0,1,1.81,,0,13,3,1519,0.5134957209,0.1184990125,0.6319947334,0.4602377377,,25,625,0,Delantero centro,0,38,65
+64,Thorgan,borussia,Thorgan Hazard,165000,Borussia Mönchengladbach,Bélgica,0,0,1.74,,0,12,7,1793,0.4015616286,0.2342442833,0.6358059119,0.3790019865,,25,625,0,Extremo izquierdo,1,38,66
+65,silva,sevilla,André Silva,201000,Sevilla FC,Portugal,1,0,1.84,Nike,1,11,2,2105,0.3135391924,0.05700712589,0.3705463183,0.2789505992,247,23,529,0,Delantero centro,0,35,548
+66,kramaric,hoffenheim,Andrej Kramaric,12100,TSG 1899 Hoffenheim,Croacia,0,0,1.77,adidas,0,13,3,1706,0.4572098476,0.1055099648,0.5627198124,0.4097896387,,27,729,0,Delantero centro,0,35,331
+67,correa,atleti,Ángel Correa,40500,Atlético de Madrid,Argentina,1,1,1.71,,0,4,3,1779,0.1349072513,0.1011804384,0.2360876897,0.1303598158,166,23,529,0,Extremo derecho,0,35,85
+68,rebic,eintracht,Ante Rebic,18720,Eintracht de Francfort,Croacia,0,0,1.85,Nike,1,7,3,1137,0.3693931398,0.1583113456,0.5277044855,0.3409326732,,25,625,0,Media punta,0,35,508
+69,cengiz,asroma,Cengiz Ünder,201000,AS Roma,Turquía,0,0,1.73,Nike,1,6,9,1702,0.2115158637,0.3172737955,0.5287896592,0.2257753601,,21,441,0,Extremo derecho,0,35,109
+70,anderson,westham,Felipe Anderson,110000,West Ham United,Brasil,1,1,1.75,adidas,0,9,3,2100,0.2571428571,0.08571428571,0.3428571429,0.2340288925,,25,625,0,Extremo izquierdo,1,35,110
+71,bailey,bayer04,Leon Bailey,110000,Bayer 04 Leverkusen,Jamaica,0,0,1.78,Nike,1,1,5,1434,0.04184100418,0.2092050209,0.2510460251,0.06440693902,,21,441,0,Extremo izquierdo,1,35,55
+72,arnautovic,westham,Marko Arnautovic,60500,West Ham United,Austria,1,0,1.92,Puma,0,8,2,1299,0.3695150115,0.09237875289,0.4618937644,0.332148325,,29,841,0,Delantero centro,0,35,42
+73,gomez,rccelta,Maximiliano Gómez,12100,Celta de Vigo,Uruguay,1,1,1.86,,0,9,5,1635,0.3302752294,0.1834862385,0.5137614679,0.3104834553,23.8,22,484,0,Delantero centro,0,35,86
+74,haller,eintracht,Sébastien Haller,9900,Eintracht de Francfort,Francia,0,1,1.9,,0,14,11,2193,0.3830369357,0.3009575923,0.683994528,0.3719700579,0.007373,24,576,0,Delantero centro,0,35,343
+75,vini,realmadrid,Vinícius Júnior,368000,Real Madrid CF,Brasil,1,1,1.76,Nike,1,6,10,1373,0.262199563,0.4369992717,0.6991988347,0.285768063,,18,324,0,Extremo izquierdo,1,35,577
+76,zaha,cpfc,Wilfried Zaha,90500,Crystal Palace,Costa de Marfil,1,0,1.8,,0,3,4,1978,0.09100101112,0.1213346815,0.2123356926,0.09509094421,845,26,676,0,Extremo derecho,0,35,1498
+77,benyedder,sevilla,Wissam Ben Yedder,49500,Sevilla FC,Francia,1,1,1.7,,0,18,7,2194,0.4922515953,0.1914311759,0.6836827712,0.4516915387,96.5,28,784,0,Delantero centro,0,35,7
+78,moura,coys,Lucas Moura,301000,Tottenham Hotspur,Brasil,1,1,1.72,,0,8,2,1987,0.2415702063,0.06039255159,0.3019627579,0.2171417585,2930,26,676,0,Extremo derecho,0,32,73
+79,belotti,torino,Andrea Belotti,33100,Torino FC,Italia,0,1,1.81,,0,9,2,2040,0.2647058824,0.05882352941,0.3235294118,0.236946464,,25,625,0,Delantero centro,0,30,496
+80,mertens,napoli,Dries Mertens,,SSC Napoli,Bélgica,0,0,1.69,,0,11,7,1592,0.4145728643,0.2638190955,0.6783919598,0.3942465135,,31,961,1,Delantero centro,0,30,765
+81,guedes,valencia,Gonçalo Guedes,3210,Valencia CF,Portugal,1,0,1.79,Nike,1,0,1,893,0,0.06718924972,0.06718924972,0.009059224681,,22,484,0,Extremo izquierdo,1,30,236
+82,politano,inter,Matteo Politano,22200,Inter de Milán,Italia,0,1,1.71,,0,2,4,1900,0.06315789474,0.1263157895,0.1894736842,0.07167356594,19,25,625,0,Extremo derecho,0,30,613
+83,batshuayi,valencia,Michy Batshuayi,135000,Valencia CF,Bélgica,1,0,1.84,adidas,0,3,0,1042,0.1727447217,0,0.1727447217,0.1494532985,,25,625,0,Delantero centro,0,30,22
+84,cutrone,acmilan,Patrick Cutrone,49500,AC Milan,Italia,0,1,1.83,,0,9,2,1433,0.3768318214,0.08374040475,0.4605722261,0.3373138775,,21,441,0,Delantero centro,0,30,320
+85,rodrigo,valencia,Rodrigo,,Valencia CF,España,1,1,1.82,Nike,1,4,4,2119,0.1132609722,0.1132609722,0.2265219443,0.1132609722,,27,729,0,Delantero centro,0,30,3272
+86,bergwijn,psv,Steven Bergwijn,14800,PSV Eindhoven,Países Bajos,0,0,1.78,,0,10,10,2227,0.2694207454,0.2694207454,0.5388414908,0.2694207454,,21,441,0,Extremo izquierdo,1,30,540
+87,williams,athleticclub,Iñaki Williams,14800,Athletic Club,España,1,1,1.86,Nike,1,9,3,1736,0.3110599078,0.1036866359,0.4147465438,0.2830994667,67,24,576,0,Extremo derecho,0,28,51
+88,balde,inter,Keita Baldé,74000,Inter de Milán,Senegal,0,0,1.84,,0,4,3,811,0.2959309494,0.2219482121,0.5178791615,0.2859557489,,23,529,0,Extremo izquierdo,1,28,217
+89,lopes,monaco,Rony Lopes,27100,AS Monaco,Portugal,0,0,1.74,adidas,0,2,1,979,0.1225740552,0.06128702758,0.1838610827,0.1143106357,,23,529,0,Extremo derecho,0,28,84
+90,marega,porto,Moussa Marega,18100,FC Porto,Malí,0,0,1.83,,0,16,9,2405,0.3991683992,0.2245322245,0.6237006237,0.3756219487,,27,729,0,Media punta,0,26,9908
+91,brahimi,porto,Yacine Brahimi,22200,FC Porto,Argelia,0,0,1.75,,0,8,6,2205,0.2176870748,0.1632653061,0.380952381,0.2103493083,,28,784,0,Extremo izquierdo,1,26,1125
+92,mitrovic,fulham,Aleksandar Mitrovic,33100,FC Fulham,Serbia,1,0,1.88,Nike,1,8,2,2117,0.2267359471,0.05668398677,0.2834199339,0.2038075929,,24,576,0,Delantero centro,0,25,675
+93,iwobi,arsenal,Alex Iwobi,60500,FC Arsenal,Nigeria,1,0,1.83,Nike,1,3,7,1679,0.1072066706,0.2501488982,0.3573555688,0.12647978,678,22,484,0,Extremo izquierdo,1,25,6832
+94,milik,napoli,Arkadiusz Milik,49500,SSC Napoli,Polonia,0,0,1.86,Nike,1,12,2,1436,0.5013927577,0.08356545961,0.5849582173,0.4450564928,221,24,576,0,Delantero centro,0,25,1897
+95,wilson,afcbournemouth,Callum Wilson,40500,AFC Bournemouth,Inglaterra,0,1,1.8,,0,11,6,1857,0.3554119548,0.1938610662,0.549273021,0.3336298125,,26,676,0,Delantero centro,0,25,85
+96,neres,ajax,David Neres,74000,AFC Ajax Amsterdam,Brasil,0,1,1.75,,0,4,10,2006,0.1196410768,0.2991026919,0.4187437687,0.1438381485,,21,441,0,Extremo derecho,0,25,21382
+97,forsberg,leipzig,Emil Forsberg,74000,RasenBallsport Leipzig,Suecia,0,0,1.79,,0,3,3,851,0.2115158637,0.2115158637,0.4230317274,0.2115158637,,27,729,0,Extremo izquierdo,1,25,20
+98,aspas,rccelta,Iago Aspas,135000,Celta de Vigo,España,1,1,1.76,,0,11,2,1546,0.4269081501,0.07761966365,0.5045278137,0.3798130732,,31,961,1,Delantero centro,0,25,106
+99,augustin,leipzig,Jean-Kévin Augustin,9900,RasenBallsport Leipzig,Francia,0,1,1.77,,0,8,2,1242,0.38647343,0.09661835749,0.4830917874,0.3473918471,37.8,21,441,0,Delantero centro,0,25,151
+100,cuadrado,juventus,Juan Cuadrado,74000,Juventus de Turín,Colombia,0,0,1.79,adidas,0,1,4,937,0.06403415155,0.2561366062,0.3201707577,0.08993560611,3860,30,900,0,Extremo derecho,0,25,108
+101,volland,bayer04,Kevin Volland,14800,Bayer 04 Leverkusen,Alemania,0,1,1.79,,0,8,7,1836,0.2614379085,0.2287581699,0.4901960784,0.2570316516,,26,676,0,Delantero centro,0,25,26
+102,lautaro,inter,Lautaro Martínez,1218,Inter de Milán,Argentina,0,1,1.74,,0,5,1,683,0.439238653,0.0878477306,0.5270863836,0.3918601017,,21,441,0,Delantero centro,0,25,3964
+103,vazquez,realmadrid,Lucas Vázquez,165000,Real Madrid CF,España,1,1,1.73,adidas,0,4,4,1787,0.1343033016,0.1343033016,0.2686066032,0.1343033016,1070,27,729,0,Extremo derecho,0,25,1722
+104,sabitzer,leipzig,Marcel Sabitzer,12100,RasenBallsport Leipzig,Austria,0,0,1.77,,0,3,5,1802,0.09988901221,0.166481687,0.2663706992,0.1088677998,,24,576,0,Extremo derecho,0,25,15
+105,mandzukic,juventus,Mario Mandzukic,39800,Juventus de Turín,Croacia,0,0,1.9,Nike,1,9,4,1652,0.3268765133,0.1452784504,0.4721549637,0.3023913812,,32,1024,1,Delantero centro,0,25,867
+106,pedro,chelsea,Pedro,,Chelsea FC,España,1,1,1.67,,0,7,2,1731,0.2426343154,0.06932409012,0.3119584055,0.2192666446,,31,961,1,Extremo derecho,0,25,9316
+107,mina,valencia,Santi Mina,40500,Valencia CF,España,1,1,1.81,,0,8,0,1480,0.3243243243,0,0.3243243243,0.2805952019,23.4,23,529,0,Delantero centro,0,25,267
+108,verdi,napoli,Simone Verdi,49500,SSC Napoli,Italia,0,1,1.74,,0,1,1,294,0.2040816327,0.2040816327,0.4081632653,0.2040816327,,26,676,0,Extremo derecho,0,25,234
+109,jose,realsociedad,Willian José,22200,Real Sociedad,Brasil,1,1,1.89,,0,7,1,1590,0.2641509434,0.03773584906,0.3018867925,0.2336230655,109,27,729,0,Delantero centro,0,25,244
+110,shaqiri,lfc,Xherdan Shaqiri,201000,FC Liverpool,Suiza,1,0,1.69,Nike,1,6,3,1176,0.306122449,0.1530612245,0.4591836735,0.2854849805,831,27,729,0,Extremo derecho,0,25,2700
+111,dzeko,asroma,Edin Dzeko,165000,AS Roma,Bosnia y Herzegovina,0,0,1.93,adidas,0,9,4,1587,0.3402646503,0.1512287335,0.4914933837,0.3147766615,1540,32,1024,1,Delantero centro,0,23,755
+112,simeone,fiorentina,Giovanni Simeone,74000,ACF Fiorentina,Argentina,0,1,1.79,,0,4,5,1667,0.1439712058,0.1799640072,0.323935213,0.1488241678,210,23,529,0,Delantero centro,0,23,201
+113,dost,sporting_cp,Bas Dost,90500,Sporting CP,Países Bajos,0,0,1.96,adidas,0,17,2,1551,0.6576402321,0.07736943907,0.7350096712,0.5794014735,,29,841,0,Delantero centro,0,22,137
+114,bakambu,guoan,Cédric Bakambu,14800,Beijing Sinobo Guoan,RD del Congo,0,0,1.82,,0,112,22,17971,0.3739357854,0.07345167214,0.4473874576,0.3334210735,,27,729,0,Delantero centro,0,22,13
+115,zapata,atalanta,Duván Zapata,15000,Atalanta Bergamo,Colombia,0,0,1.89,,0,18,5,1903,0.5675249606,0.1576458224,0.725170783,0.5122603577,,27,729,0,Delantero centro,0,22,777
+116,calhanoglu,acmilan,Hakan Calhanoglu,33100,AC Milan,Turquía,0,0,1.78,adidas,0,1,10,2004,0.02994011976,0.2994011976,0.3293413174,0.06627195048,,24,576,0,Extremo izquierdo,1,22,123
+117,shaarawy,asroma,Stephan El Shaarawy,40500,AS Roma,Italia,0,1,1.78,Nike,1,7,3,1199,0.3502919099,0.1501251043,0.5004170142,0.3233031271,,26,676,0,Extremo izquierdo,1,22,200
+118,lookman,everton,Ademola Lookman,27100,FC Everton,Inglaterra,1,1,1.74,Nike,1,1,2,639,0.09389671362,0.1877934272,0.2816901408,0.1065569447,,21,441,0,Extremo izquierdo,1,20,276
+119,maximin,ogcnice,Allan Saint-Maximin,9900,OGC Nice,Francia,0,1,1.73,,0,5,3,1734,0.1730103806,0.1038062284,0.276816609,0.1636794837,,21,441,0,Extremo derecho,0,20,33
+120,yarmolenko,westham,Andrii Yarmolenko,18100,West Ham United,Ucrania,1,0,1.9,Nike,1,2,1,549,0.218579235,0.1092896175,0.3278688525,0.2038435562,36.4,29,841,0,Extremo derecho,0,20,1
+121,iglesias,rcdespanyol,Borja Iglesias,22200,RCD Espanyol,España,1,1,1.87,,0,12,2,1990,0.3618090452,0.06030150754,0.4221105528,0.3211563435,,26,676,0,Delantero centro,0,20,138
+122,tosun,everton,Cenk Tosun,11400,FC Everton,Turquía,1,0,1.83,Nike,1,2,2,810,0.1481481481,0.1481481481,0.2962962963,0.1481481481,426,27,729,0,Delantero centro,0,20,221
+123,benteke,cpfc,Christian Benteke,22200,Crystal Palace,Bélgica,1,0,1.9,Nike,1,0,0,360,0,0,0,0,,28,784,0,Delantero centro,0,20,195
+124,pavon,bocajrs,Cristian Pavón,3080,Club Atlético Boca Juniors,Argentina,0,1,1.74,,0,2,0,554,0.2166064982,0,0.2166064982,0.1874011277,,23,529,0,Extremo derecho,0,20,0
+125,demarai,lcfc,Demarai Gray,14800,Leicester City,Inglaterra,1,1,1.8,adidas,0,3,1,1474,0.1221166893,0.04070556309,0.1628222524,0.1111399082,,22,484,0,Extremo izquierdo,1,20,30
+126,lamela,coys,Erik Lamela,49500,Tottenham Hotspur,Argentina,1,1,1.84,,0,6,3,1240,0.2903225806,0.1451612903,0.435483871,0.2707502718,,26,676,0,Extremo derecho,0,20,245
+127,martins,monaco,Gelson Martins,10830,AS Monaco,Portugal,0,0,1.73,,0,1,0,446,0.134529148,0,0.134529148,0.1163903865,26.6,23,529,0,Extremo derecho,0,20,275
+128,moreno,villarealcf,Gerard Moreno,27100,Villarreal CF,,1,0,1.8,,0,7,1,2022,0.2077151335,0.0296735905,0.237388724,0.1837095322,,26,676,0,,0,20,1
+129,pity,atlutd,Gonzalo Martínez,22200,Atlanta United FC,Argentina,0,1,1.7,,0,4,1,431,0.5568445476,0.1392111369,0.6960556845,0.5005344248,,25,625,0,Extremo izquierdo,1,20,1281
+130,hulk,sipg,Hulk,8100,Shanghai SIPG,Brasil,0,1,1.8,,0,241,164,38036,0.3801661584,0.258702282,0.6388684404,0.3637890065,,32,1024,1,Extremo derecho,0,20,156
+131,sarr,staderennais,Ismaïla Sarr,22200,Stade Rennais FC,Senegal,0,0,1.85,,0,9,6,2382,0.2267002519,0.1511335013,0.3778337531,0.2165114765,,20,400,0,Extremo izquierdo,1,20,1268
+132,bruunlarsen,bvb,Jacob Bruun Larsen,139,Borussia Dortmund,Dinamarca,0,0,1.83,Nike,1,3,2,947,0.1900739176,0.1267159451,0.3167898627,0.1815312697,0.008916,20,400,0,Extremo izquierdo,1,20,2
+133,vardy,lcfc,Jamie Vardy,201000,Leicester City,Inglaterra,1,1,1.79,,0,7,3,1599,0.2626641651,0.1125703565,0.3752345216,0.2424267976,,32,1024,1,Delantero centro,0,20,4077
+134,callejon,napoli,José Callejón,22200,SSC Napoli,España,0,1,1.78,adidas,0,1,8,1980,0.0303030303,0.2424242424,0.2727272727,0.05890364317,,31,961,1,Extremo derecho,0,20,1925
+135,kluivert,asroma,Justin Kluivert,165000,AS Roma,Países Bajos,0,0,1.71,adidas,0,2,5,1181,0.1016088061,0.2540220152,0.3556308213,0.1221589017,,19,361,0,Extremo izquierdo,1,20,236
+136,luan,gremio,Luan,6600,Grêmio Foot-Ball Porto Alegrense,Brasil,0,1,1.8,adidas,0,41,31,13034,0.188737149,0.142703698,0.331440847,0.1825303916,,25,625,0,Media punta,0,20,2542
+137,diaz,realmadrid,Mariano Díaz,165000,Real Madrid CF,República Dominicana,1,0,1.78,,0,1,0,502,0.1195219124,0,0.1195219124,0.1034065983,,25,625,0,Delantero centro,0,20,178
+138,balotelli,om,Mario Balotelli,246000,Olympique de Marseille,Italia,0,1,1.89,Puma,0,0,1,758,0,0.07915567282,0.07915567282,0.01067267499,,28,784,0,Delantero centro,0,20,15349
+139,uth,s04,Mark Uth,22200,FC Schalke 04,Alemania,0,1,1.85,,0,3,2,1386,0.1298701299,0.08658008658,0.2164502165,0.1240332701,,27,729,0,Delantero centro,0,20,322
+140,gregoritsch,ausburg,Michael Gregoritsch,4400,FC Augsburg,Austria,0,0,1.93,adidas,0,4,0,1492,0.1608579088,0,0.1608579088,0.139169202,,24,576,0,Media punta,0,20,0
+141,mdembele,ol,Moussa Dembélé,135000,Olympique Lyonnais,Francia,0,1,1.83,adidas,0,11,4,1545,0.427184466,0.1553398058,0.5825242718,0.3905312534,,22,484,0,Delantero centro,0,20,1959
+142,rafa,benfica,Rafa Silva,18100,SL Benfica,Portugal,0,0,1.71,,0,9,2,1427,0.3784162579,0.08409250175,0.4625087596,0.3387321559,,25,625,0,Extremo derecho,0,20,2296
+143,guerreiro,bvb,Raphaël Guerreiro,22200,Borussia Dortmund,Portugal,0,0,1.7,adidas,0,5,4,921,0.325732899,0.2605863192,0.5863192182,0.3169490905,,25,625,0,Extremo izquierdo,1,20,1076
+144,walcott,everton,Theo Walcott,135000,FC Everton,Inglaterra,1,1,1.75,adidas,0,4,2,1643,0.1460742544,0.07303712721,0.2191113816,0.1362265519,2300,29,841,0,Extremo derecho,0,20,1083
+145,vitolo,atleti,Vitolo,,Atlético de Madrid,España,1,1,1.85,,0,1,2,637,0.09419152276,0.1883830455,0.2825745683,0.1068915034,149,29,841,0,Extremo izquierdo,1,20,138
+146,carrasco,DalianYifang,Yannick Carrasco,90500,Dalian Yifang,Bélgica,0,0,1.8,Nike,1,50,50,16834,0.1782107639,0.1782107639,0.3564215279,0.1782107639,112,25,625,0,Extremo izquierdo,1,20,8
+147,poulsen,leipzig,Yussuf Poulsen,60500,RasenBallsport Leipzig,Dinamarca,0,0,1.93,,0,13,6,1987,0.3925515853,0.1811776548,0.5737292401,0.3640517295,12.5,24,576,0,Delantero centro,0,20,55
+148,traore,wolves,Adama Traoré,74000,Wolverhampton Wanderers,España,1,1,1.78,,0,1,2,932,0.0643776824,0.1287553648,0.1931330472,0.07305781936,11.1,23,529,0,Extremo derecho,0,18,474
+149,jahanbakhsh,bhafc,Alireza Jahanbakhsh,49500,Brighton & Hove Albion,Irán,1,0,1.8,,0,0,0,619,0,0,0,0,,25,625,0,Extremo derecho,0,18,315
+150,zivkovic,benfica,Andrija Zivkovic,6600,SL Benfica,Serbia,0,0,1.69,,0,0,7,1257,0,0.3341288783,0.3341288783,0.04505108471,,22,484,0,Extremo derecho,0,18,115
+151,bernard,everton,Bernard,,FC Everton,Brasil,1,1,1.64,,0,1,4,1268,0.04731861199,0.1892744479,0.2365930599,0.0664587247,1180,26,676,0,Extremo izquierdo,1,18,981
+152,traore,ol,Bertrand Traoré,18100,Olympique Lyonnais,Burkina Faso,0,0,1.81,,0,9,4,1837,0.2939575395,0.1306477953,0.4246053348,0.2719382481,,23,529,0,Extremo derecho,0,18,1230
+153,wood,burnley,Chris Wood,640000,Burnley FC,,0,0,1.91,,0,6,1,1712,0.2102803738,0.03504672897,0.2453271028,0.1866533655,,27,729,0,,0,18,325
+154,jota,wolves,Diogo Jota,33100,Wolverhampton Wanderers,Portugal,1,0,1.78,,0,5,2,1270,0.2362204724,0.09448818898,0.3307086614,0.2171105016,20.1,22,484,0,Extremo izquierdo,1,18,1512
+155,berardi,sassuolo,Domenico Berardi,14800,US Sassuolo,Italia,0,1,1.83,,0,5,4,1877,0.1598295152,0.1278636121,0.2876931273,0.1555195058,,24,576,0,Extremo derecho,0,18,455
+156,tadic,ajax,Dusan Tadic,27100,AFC Ajax Amsterdam,Serbia,0,0,1.81,,0,21,13,2837,0.4441311244,0.2749383151,0.7190694395,0.4213186108,,30,900,0,Extremo izquierdo,1,18,41836
+157,philipp,bvb,Maximilian Philipp,834,Borussia Dortmund,Alemania,0,1,1.83,,0,2,2,852,0.1408450704,0.1408450704,0.2816901408,0.1408450704,,24,576,0,Media punta,0,18,102
+158,redmond,southampton,Nathan Redmond,12100,Southampton FC,,0,0,1.73,adidas,0,5,4,2329,0.1288106483,0.1030485187,0.231859167,0.1253371028,101,24,576,0,,0,18,167
+159,promes,sevilla,Quincy Promes,40500,Sevilla FC,Países Bajos,1,0,1.74,,0,4,6,2176,0.1102941176,0.1654411765,0.2757352941,0.1177296761,21.7,27,729,0,Extremo izquierdo,1,18,220
+160,jimenez,wolves,Raúl Jiménez,110000,Wolverhampton Wanderers,México,1,0,1.88,,0,8,6,1973,0.2432843386,0.1824632539,0.4257475925,0.2350837429,,27,729,0,Delantero centro,0,18,7640
+161,rodri,udinese,Rodrigo de Paul,18100,Udinese Calcio,Argentina,0,1,1.8,Puma,0,6,3,1906,0.1888772298,0.0944386149,0.2833158447,0.1761439334,63.3,24,576,0,Extremo izquierdo,1,18,0
+162,castillejo,acmilan,Samu Castillejo,1246,AC Milan,España,0,1,1.82,adidas,0,2,2,998,0.120240481,0.120240481,0.2404809619,0.120240481,,24,576,0,Extremo derecho,0,18,171
+163,nakajima,portimonense,Shoya Nakajima,8100,Portimonense SC,Japón,0,0,1.64,adidas,0,5,6,1257,0.2386634845,0.2863961814,0.5250596659,0.2450993537,,24,576,0,Extremo izquierdo,1,18,3
+164,moses,fenerbahce,Victor Moses,110000,Fenerbahce Istanbul,Nigeria,0,0,1.77,Nike,1,0,0,176,0,0,0,0,1150,28,784,0,Extremo derecho,0,18,603
+165,aboubakar,porto,Vincent Aboubakar,27100,FC Porto,Camerún,0,0,1.84,,0,4,2,565,0.4247787611,0.2123893805,0.6371681416,0.3961419907,,27,729,0,Delantero centro,0,18,74
+166,perotti,asroma,Diego Perotti,33100,AS Roma,Argentina,0,1,1.79,,0,1,0,218,0.2752293578,0,0.2752293578,0.2381197815,60.8,30,900,0,Extremo izquierdo,1,17.5,323
+167,falque,torino,Iago Falque,33100,Torino FC,España,0,1,1.74,Nike,1,3,6,1270,0.1417322835,0.2834645669,0.4251968504,0.1608422543,,29,841,0,Extremo derecho,0,17.5,90
+168,salvio,benfica,Eduardo Salvio,22200,SL Benfica,Argentina,0,1,1.73,,0,4,5,1224,0.1960784314,0.2450980392,0.4411764706,0.2026878167,209,28,784,0,Extremo derecho,0,17,72
+169,dolberg,ajax,Kasper Dolberg,40500,AFC Ajax Amsterdam,Dinamarca,0,0,1.87,adidas,0,8,4,1230,0.3902439024,0.1951219512,0.5853658537,0.3639353247,,21,441,0,Delantero centro,0,17,3497
+170,alario,bayer04,Lucas Alario,18100,Bayer 04 Leverkusen,Argentina,0,1,1.84,adidas,0,7,2,1119,0.3753351206,0.1072386059,0.4825737265,0.339187276,281,26,676,0,Delantero centro,0,17,12
+171,paulinho,bayer04,Paulinho,,Bayer 04 Leverkusen,Brasil,0,1,1.77,,0,1,0,356,0.1685393258,0,0.1685393258,0.1458149224,75,18,324,0,Extremo izquierdo,1,17,14
+172,nelson,tsghoffenheim,Reiss Nelson,8100,TSG 1899 Hoffenheim,Inglaterra,0,1,1.75,adidas,0,7,1,815,0.5153374233,0.0736196319,0.5889570552,0.4557799683,,19,361,0,Extremo derecho,0,17,6
+173,sala,cardiffcity,Emiliano Sala,22200,Cardiff City,Argentina,1,1,1.87,,0,13,2,1466,0.5320600273,0.08185538881,0.6139154161,0.4713582783,43.5,28,784,0,Delantero centro,0,16,15
+174,cervi,benfica,Franco Cervi,1231,SL Benfica,Argentina,0,1,1.66,,0,3,4,1652,0.1089588378,0.1452784504,0.2542372881,0.1138558642,,24,576,0,Extremo izquierdo,1,16,366
+175,corona,porto,Jesús Corona,8100,FC Porto,México,0,0,1.73,Nike,1,5,8,2003,0.149775337,0.2396405392,0.3894158762,0.1618919935,,26,676,0,Extremo derecho,0,16,2148
+176,papu,atalanta,Papu Gómez,49500,Atalanta Bergamo,Argentina,0,1,1.65,adidas,0,7,9,2347,0.1789518534,0.2300809544,0.4090328078,0.1858456648,,30,900,0,Media punta,0,16,136
+177,januzaj,realsociedad,Adnan Januzaj,90500,Real Sociedad,Bélgica,1,0,1.86,New Balance,0,1,3,985,0.06091370558,0.1827411168,0.2436548223,0.07733987338,643,23,529,0,Extremo derecho,0,15,144
+178,musa,alnassr,Ahmed Musa,110000,Al-Nasr Riyadh,Nigeria,0,0,1.71,,0,5,4,1212,0.2475247525,0.198019802,0.4455445545,0.2408499277,176,26,676,0,Delantero centro,0,15,7
+179,finnbogason,ausburg,Alfred Finnbogason,9900,FC Augsburg,Islandia,0,0,1.84,,0,7,3,997,0.4212637914,0.1805416249,0.6018054162,0.38880687,44.2,29,841,0,Delantero centro,0,15,76
+180,gray,watfordfc,Andre Gray,566,FC Watford,Inglaterra,1,1,1.78,,0,4,0,788,0.3045685279,0,0.3045685279,0.2635031084,,27,729,0,Delantero centro,0,15,799
+181,schurrle,fulham,André Schürrle,33100,FC Fulham,Alemania,1,1,1.84,adidas,0,6,0,1605,0.2242990654,0,0.2242990654,0.1940564948,1980,28,784,0,Extremo izquierdo,1,15,40
+182,townsend,cpfc,Andros Townsend,2600,Crystal Palace,,0,0,1.81,adidas,0,7,2,2416,0.1738410596,0.04966887417,0.2235099338,0.1570987425,341,27,729,0,,0,15,316
+183,embolo,s04,Breel Embolo,33100,FC Schalke 04,Suiza,0,0,1.84,Nike,1,3,1,951,0.1892744479,0.06309148265,0.2523659306,0.1722610144,,21,441,0,Delantero centro,0,15,398
+184,sturridge,lfc,Daniel Sturridge,135000,FC Liverpool,Inglaterra,1,1,1.8,,0,4,1,576,0.4166666667,0.1041666667,0.5208333333,0.3745318352,,29,841,0,Delantero centro,0,15,945
+185,welbeck,arsenal,Danny Welbeck,110000,FC Arsenal,Inglaterra,1,1,1.83,Nike,1,5,1,604,0.4966887417,0.09933774834,0.5960264901,0.4431133269,293,28,784,0,Delantero centro,0,15,496
+186,benedetto,bocajrs,Darío Benedetto,22200,Club Atlético Boca Juniors,Argentina,0,1,1.77,,0,0,1,366,0,0.1639344262,0.1639344262,0.02210351814,,28,784,0,Delantero centro,0,15,2
+187,selke,herthabsc,Davie Selke,14800,Hertha Berlin,Alemania,0,1,1.94,,0,1,5,942,0.06369426752,0.3184713376,0.3821656051,0.09804623202,,24,576,0,Delantero centro,0,15,39
+188,Calvert-lewin,everton,Dominic Calvert-Lewin,12100,FC Everton,,0,0,1.87,Nike,1,6,2,917,0.3925845147,0.1308615049,0.5234460196,0.357296019,38.1,21,441,0,,0,15,1036
+189,carrillo,cdleganes,Guido Carrillo,444,CD Leganés,Argentina,1,1,1.91,,0,5,0,1375,0.2181818182,0,0.2181818182,0.1887640449,,27,729,0,Delantero centro,0,15,26
+190,heldercosta,wolves,Hélder Costa,9900,Wolverhampton Wanderers,Portugal,1,0,1.79,,0,2,2,1393,0.08614501077,0.08614501077,0.1722900215,0.08614501077,15.8,25,625,0,Extremo derecho,0,15,32
+191,felix,benfica,João Félix,14800,SL Benfica,Portugal,0,0,1.8,,0,6,1,892,0.4035874439,0.06726457399,0.4708520179,0.3582405401,,19,361,0,Media punta,0,15,8564
+192,joelinton,tsghoffenheim,Joelinton,9900,TSG 1899 Hoffenheim,Brasil,0,1,1.86,,0,9,7,1934,0.2792140641,0.2171664943,0.4963805584,0.2708480996,,22,484,0,Delantero centro,0,15,36
+193,bamba,losc,Jonathan Bamba,22200,LOSC Lille Métropole,Francia,0,1,1.75,Nike,1,8,2,1757,0.2731929425,0.06829823563,0.3414911781,0.2455666899,,22,484,0,Extremo izquierdo,1,15,100
+194,rondon,nufc,José Salomón Rondón,880,Newcastle United,Venezuela,1,0,1.86,,0,6,3,1272,0.2830188679,0.141509434,0.4245283019,0.2639389442,,29,841,0,Delantero centro,0,15,2379
+195,king,afcbournemouth,Joshua King,33100,AFC Bournemouth,,0,0,1.81,,0,6,3,1746,0.206185567,0.1030927835,0.3092783505,0.1922854164,,27,729,0,,0,15,111
+196,iheanacho,lcfc,Kelechi Iheanacho,33100,Leicester City,Nigeria,1,0,1.85,Nike,1,2,4,1156,0.1038062284,0.2076124567,0.3114186851,0.1178025738,206,22,484,0,Delantero centro,0,15,45
+197,piatek,acmilan,Krzysztof Piatek,18000,AC Milan,Polonia,0,0,1.83,adidas,0,19,1,1792,0.6361607143,0.03348214286,0.6696428571,0.5549006822,,23,529,0,Delantero centro,0,15,4919
+198,stindl,borussia,Lars Stindl,18100,Borussia Mönchengladbach,Alemania,0,1,1.8,,0,2,3,891,0.1346801347,0.202020202,0.3367003367,0.1437596943,45.3,30,900,0,Media punta,0,15,180
+199,loren,betis,Loren Morón,9900,Real Betis Balompié,,0,0,1.85,,0,5,2,1663,0.1803968731,0.07215874925,0.2525556224,0.1658029688,,25,625,0,,0,15,313
+200,moielyo,southampton,Mohamed Elyounoussi,12100,Southampton FC,,0,0,1.78,,0,0,0,923,0,0,0,0,,24,576,0,,0,15,0
+201,kean,juventus,Moise Kean,49500,Juventus de Turín,Italia,0,1,1.83,,0,1,0,76,0.7894736842,0,0.7894736842,0.6830277942,,18,324,0,Delantero centro,0,15,5331
+202,dabbur,redbullsalzburg,Munas Dabbur,8100,Red Bull Salzburg,Israel,0,0,1.82,Nike,1,20,6,2275,0.5274725275,0.1582417582,0.6857142857,0.4776886035,,26,676,0,Delantero centro,0,15,33
+203,fullkrug,hannover96,Niclas Füllkrug,,Hannover 96,Alemania,0,1,1.89,,0,3,2,1190,0.1512605042,0.1008403361,0.2521008403,0.1444622793,,25,625,0,Delantero centro,0,15,0
+204,giroud,chelsea,Olivier Giroud,550000,Chelsea FC,Francia,1,1,1.92,Puma,0,5,5,1138,0.2636203866,0.2636203866,0.5272407733,0.2636203866,2540,32,1024,1,Delantero centro,0,15,2086
+205,schick,asroma,Patrik Schick,40500,AS Roma,República Checa,0,0,1.9,,0,4,2,1057,0.2270577105,0.1135288553,0.3405865658,0.2117504491,,23,529,0,Delantero centro,0,15,889
+206,goulart,palmeiras,Ricardo Goulart,40500,Sociedade Esportiva Palmeiras,Brasil,0,1,1.83,adidas,0,146,77,2233,3.922973578,2.068965517,5.991939095,3.672994963,,27,729,0,Media punta,0,15,5936
+207,fraser,afcbournemouth,Ryan Fraser,696,AFC Bournemouth,Escocia,0,0,1.63,,0,6,10,2067,0.1741654572,0.290275762,0.4644412192,0.1898207792,,24,576,0,Extremo izquierdo,1,15,402
+208,bolasie,everton,Yannick Bolasie,33100,FC Everton,RD del Congo,1,0,1.85,,0,2,5,953,0.1259181532,0.314795383,0.4407135362,0.151384746,189,29,841,0,Extremo izquierdo,1,15,15
+209,kouame,genoacfc,Christian Kouamé,1000,Genoa CFC,Costa de Marfil,0,0,1.85,,0,3,5,1687,0.106698281,0.1778304683,0.2845287493,0.1162891377,,21,441,0,Delantero centro,0,14,0
+210,kamano,girondins,François Kamano,1600,FC Girondins de Bordeaux,Guinea,0,0,1.82,,0,11,2,2284,0.288966725,0.05253940455,0.3415061296,0.2570888841,,22,484,0,Extremo izquierdo,1,14,153
+211,deulofeu,watfordfc,Gerard Deulofeu,40500,FC Watford,España,1,1,1.77,Nike,1,3,3,1095,0.1643835616,0.1643835616,0.3287671233,0.1643835616,1040,24,576,0,Extremo derecho,0,14,322
+212,ekambi,villarealcf,Karl Toko Ekambi,9900,Villarreal CF,Camerún,1,0,1.85,,0,11,4,1529,0.4316546763,0.1569653368,0.5886200131,0.3946179114,,26,676,0,Delantero centro,0,14,0
+213,trossard,krcgenk,Leandro Trossard,6600,KRC Genk,Bélgica,0,0,1.72,,0,17,8,2174,0.4691812328,0.2207911684,0.6899724011,0.4356904376,,24,576,0,Extremo izquierdo,1,14,10
+214,ocampos,om,Lucas Ocampos,22200,Olympique de Marseille,Argentina,0,1,1.87,,0,3,2,1901,0.09468700684,0.06312467123,0.1578116781,0.09043141103,147,24,576,0,Extremo izquierdo,1,14,758
+215,kalinic,atleti,Nikola Kalinic,135000,Atlético de Madrid,Croacia,1,0,1.87,,0,4,1,935,0.256684492,0.06417112299,0.320855615,0.2307276332,,31,961,1,Delantero centro,0,14,243
+216,jovetic,monaco,Stevan Jovetic,9900,AS Monaco,Montenegro,0,0,1.83,,0,1,1,355,0.1690140845,0.1690140845,0.338028169,0.1690140845,,29,841,0,Delantero centro,0,14,93
+217,wesley,clubbrugge,Wesley,,Club Brugge KV,Brasil,0,1,1.91,,0,11,6,2284,0.288966725,0.1576182137,0.4465849387,0.2712568134,,22,484,0,Delantero centro,0,14,72
+218,driussi,zenit,Sebastián Driussi,4400,Zenit St. Petersburg,Argentina,0,1,1.79,,0,6,10,1723,0.208937899,0.3482298317,0.5571677307,0.2277188338,372,22,484,0,Delantero centro,0,13.5,236
+219,dzyuba,zenit,Artem Dzyuba,642,Zenit St. Petersburg,Rusia,0,0,1.96,,0,10,7,1973,0.3041054232,0.2128737962,0.5169792195,0.2918045297,,30,900,0,Delantero centro,0,13,136
+220,tucu,lazio,Joaquín Correa,40500,Lazio,Argentina,0,1,1.88,adidas,0,5,5,1299,0.2309468822,0.2309468822,0.4618937644,0.2309468822,171,24,576,0,Extremo izquierdo,1,13,29
+221,izquierdo,bhafc,José Izquierdo,566,Brighton & Hove Albion,Colombia,1,0,1.71,,0,0,2,614,0,0.1954397394,0.1954397394,0.02635142554,32,26,676,0,Extremo izquierdo,1,13,8
+222,zaza,torino,Simone Zaza,49500,Torino FC,Italia,0,1,1.86,Nike,1,1,4,1007,0.05958291956,0.2383316783,0.2979145978,0.08368387579,53.8,27,729,0,Delantero centro,0,13,142
+223,taison,shakhtar,Taison,880,Shakhtar Donetsk,Brasil,0,1,1.72,,0,4,9,1625,0.1476923077,0.3323076923,0.48,0.1725842697,,31,961,1,Extremo izquierdo,1,13,24
+224,weghorst,wolfsburg,Wout Weghorst,14800,VfL Wolfsburg,Países Bajos,0,0,1.97,adidas,0,7,2,1684,0.2494061758,0.07125890736,0.3206650831,0.2253863194,,26,676,0,Delantero centro,0,13,54
+225,bruma,leipzig,Bruma,,RasenBallsport Leipzig,Portugal,0,0,1.73,Nike,1,3,3,1258,0.1430842607,0.1430842607,0.2861685215,0.1430842607,,24,576,0,Extremo izquierdo,1,12.5,13
+226,smolov,fclokomotiv,Fedor Smolov,14800,Lokomotiv Moskva,Rusia,0,0,1.87,Nike,1,4,2,1104,0.2173913043,0.1086956522,0.3260869565,0.2027357108,,28,784,0,Delantero centro,0,12.5,12
+227,pjaca,fiorentina,Marko Pjaca,60500,ACF Fiorentina,Croacia,0,0,1.86,Nike,1,1,1,677,0.08862629247,0.08862629247,0.1772525849,0.08862629247,,23,529,0,Extremo izquierdo,1,12.5,433
+228,cunha,leipzig,Matheus Cunha,6600,RasenBallsport Leipzig,Brasil,0,1,1.84,Nike,1,7,1,1266,0.3317535545,0.04739336493,0.3791469194,0.2934128548,,19,361,0,Delantero centro,0,12.5,18
+229,inglese,parmacalcio,Roberto Inglese,18100,Parma Calcio 1913,Italia,0,1,1.86,adidas,0,8,1,1335,0.3595505618,0.04494382022,0.404494382,0.3171316753,,27,729,0,Delantero centro,0,12.5,3
+230,assombalonga,Middlesbrough,Britt Assombalonga,5400,Middlesbrough FC,,0,0,1.77,,0,9,0,1553,0.3477141017,0,0.3477141017,0.3008313015,70.1,26,676,0,,0,12,24
+231,chicharito,westham,Chicharito,368000,West Ham United,México,1,0,1.75,Nike,1,5,2,983,0.3051881994,0.1220752798,0.4272634791,0.280498817,9040,30,900,0,Delantero centro,0,12,34
+232,ginczek,wolfsburg,Daniel Ginczek,8100,VfL Wolfsburg,Alemania,0,1,1.91,Puma,0,6,5,1156,0.3114186851,0.2595155709,0.5709342561,0.3044205124,,27,729,0,Delantero centro,0,12,26
+233,ings,southampton,Danny Ings,90500,Southampton FC,Inglaterra,1,1,1.78,Nike,1,8,1,1233,0.3892944039,0.04866180049,0.4379562044,0.3433664124,305,26,676,0,Delantero centro,0,12,99
+234,falcao,monaco,Falcao,368000,AS Monaco,Colombia,0,0,1.77,Nike,1,9,2,1855,0.2911051213,0.06469002695,0.3557951482,0.2605772434,,32,1024,1,Delantero centro,0,12,2515
+235,defrel,sampdoria,Grégoire Defrel,3600,UC Sampdoria,Francia,0,1,1.79,Nike,1,7,2,1430,0.2937062937,0.08391608392,0.3776223776,0.2654199733,,27,729,0,Delantero centro,0,12,449
+236,bebou,hannover96,Ihlas Bebou,2900,Hannover 96,Togo,0,0,1.85,,0,4,3,1080,0.2222222222,0.1666666667,0.3888888889,0.2147315855,,24,576,0,Extremo derecho,0,12,10
+237,dilrosun,herthabsc,Javairô Dilrosun,4400,Hertha Berlin,Países Bajos,0,0,1.75,,0,2,4,951,0.1261829653,0.2523659306,0.3785488959,0.1431963988,,20,400,0,Extremo izquierdo,1,12,0
+238,rodriguez,wba,Jay Rodríguez,33100,West Bromwich Albion,Inglaterra,1,1,1.85,,0,14,3,2431,0.3455368161,0.07404360346,0.4195804196,0.3089309897,,29,841,0,Delantero centro,0,12,163
+239,brekalo,wolfsburg,Josip Brekalo,9900,VfL Wolfsburg,Croacia,0,0,1.8,,0,2,2,985,0.1218274112,0.1218274112,0.2436548223,0.1218274112,,20,400,0,Extremo izquierdo,1,12,43
+240,locadia,bhafc,Jürgen Locadia,8100,Brighton & Hove Albion,Países Bajos,1,0,1.85,,0,2,1,1083,0.1108033241,0.05540166205,0.1662049861,0.1033334371,18.1,25,625,0,Delantero centro,0,12,26
+241,bellarabi,bayer04,Karim Bellarabi,14800,Bayer 04 Leverkusen,Alemania,0,1,1.84,,0,8,4,1029,0.4664723032,0.2332361516,0.6997084548,0.4350247322,32,28,784,0,Extremo derecho,0,12,16
+242,gameiro,valencia,Kévin Gameiro,40500,Valencia CF,Francia,1,1,1.72,,0,3,3,1197,0.1503759398,0.1503759398,0.3007518797,0.1503759398,299,31,961,1,Delantero centro,0,12,666
+243,cornet,ol,Maxwel Cornet,9900,Olympique Lyonnais,Costa de Marfil,0,0,1.79,adidas,0,4,0,623,0.3852327448,0,0.3852327448,0.3332912511,,22,484,0,Extremo derecho,0,12,542
+244,antonio,westham,Michail Antonio,12100,West Ham United,Inglaterra,1,1,1.8,Umbro,0,3,4,1508,0.1193633952,0.1591511936,0.2785145889,0.1247280422,83.8,28,784,0,Extremo derecho,0,12,43
+245,haddadi,sevilla,Munir El Haddadi,49500,Sevilla FC,España,1,1,1.75,adidas,0,2,1,508,0.2362204724,0.1181102362,0.3543307087,0.2202954968,,23,529,0,Delantero centro,0,12,1248
+246,chadli,monaco,Nacer Chadli,3240,AS Monaco,Bélgica,0,0,1.87,adidas,0,0,0,1028,0,0,0,0,,29,841,0,Extremo izquierdo,1,12,33
+247,berghuis,feyenoord,Steven Berghuis,8100,Feyenoord Rotterdam,Países Bajos,0,0,1.82,,0,7,11,2177,0.192926045,0.3031694993,0.4960955443,0.207790331,,27,729,0,Extremo derecho,0,12,77
+248,geubbels,monaco,Willem Geubbels,14800,AS Monaco,Francia,0,1,1.85,,0,0,0,27,0,0,0,0,,17,289,0,Extremo izquierdo,1,12,13
+249,candreva,inter,Antonio Candreva,18100,Inter de Milán,Italia,0,1,1.81,,0,3,1,516,0.3488372093,0.1162790698,0.4651162791,0.3174810557,,31,961,1,Extremo derecho,0,11,1439
+250,mateta,1fsvmainz05,Jean-Philippe Mateta,3600,1.FSV Mainz 05,Francia,0,1,1.92,,0,6,2,1557,0.2312138728,0.07707129094,0.3082851638,0.2104306034,,21,441,0,Delantero centro,0,11,2
+251,marlos,shakhtar,Marlos,,Shakhtar Donetsk,Ucrania,0,0,1.74,,0,7,2,1475,0.2847457627,0.0813559322,0.3661016949,0.2573224148,,30,900,0,Extremo derecho,0,11,7
+252,vargas,velez,Matías Vargas,8100,Club Atletico Vélez Sarsfield,,0,0,1.68,,0,4,0,1201,0.1998334721,0,0.1998334721,0.1728896332,,21,441,0,,0,11,394
+253,davies,bayern,Alphonso Davies,74000,FC Bayern de Múnich,Canadá,0,0,1.81,,0,0,0,4,0,0,0,0,23.3,18,324,0,Extremo izquierdo,1,10,284
+254,petagna,spal,Andrea Petagna,9900,SPAL,Italia,0,1,1.9,,0,8,0,1768,0.2714932127,0,0.2714932127,0.2348873862,0.007724,23,529,0,Delantero centro,0,10,79
+255,delort,mhr,Andy Delort,18100,Montpellier Hérault SC,Francia,0,1,1.82,,0,7,4,1838,0.2285092492,0.1305767138,0.359085963,0.2153048624,,27,729,0,Delantero centro,0,10,0
+256,danjuma,clubbrugge,Arnaut Danjuma,6600,Club Brugge KV,Países Bajos,0,0,1.78,,0,5,4,1173,0.2557544757,0.2046035806,0.4603580563,0.2488577258,,21,441,0,Extremo izquierdo,1,10,42
+257,ayoze,nufc,Ayoze Pérez,12100,Newcastle United,,0,0,1.78,,0,4,3,1745,0.1375358166,0.1031518625,0.2406876791,0.1328997779,135,25,625,0,,0,10,1142
+258,afobe,stokecity,Benik Afobe,18100,Stoke City,RD del Congo,1,0,1.83,,0,8,2,2077,0.2311025518,0.05777563794,0.2888781897,0.2077326308,,25,625,0,Delantero centro,0,10,75
+259,vela,lafc,Carlos Vela,246000,Los Angeles FC,México,0,0,1.77,,0,105,71,25676,0.2453653217,0.1659136937,0.4112790154,0.2346527426,,29,841,0,Extremo derecho,0,10,1594
+260,austin,southampton,Charlie Austin,33100,Southampton FC,Inglaterra,1,1,1.88,Nike,1,3,1,807,0.2230483271,0.07434944238,0.2973977695,0.2029990393,,29,841,0,Delantero centro,0,10,124
+261,stuani,girona,Cristhian Stuani,18100,Girona FC,Uruguay,0,1,1.84,,0,13,0,1557,0.5009633911,0,0.5009633911,0.4334177654,98.8,32,1024,1,Delantero centro,0,10,1655
+262,origi,lfc,Divock Origi,40500,FC Liverpool,Bélgica,1,0,1.85,,0,3,2,263,0.6844106464,0.4562737643,1.140684411,0.6536506173,,23,529,0,Delantero centro,0,10,771
+263,solanke,afcbournemouth,Dominic Solanke,27100,AFC Bournemouth,Inglaterra,0,1,1.86,adidas,0,2,0,180,0.6666666667,0,0.6666666667,0.5767790262,,21,441,0,Delantero centro,0,10,25
+264,gayle,wba,Dwight Gayle,22200,West Bromwich Albion FC,,0,0,1.77,,0,14,6,1501,0.5596269154,0.2398401066,0.799467022,0.5165095929,82.2,28,784,0,,0,10,252
+265,chalov,pfccska,Fedor Chalov,,CSKA Moscú,Rusia,0,0,1.8,,0,11,4,1935,0.3410852713,0.1240310078,0.4651162791,0.3118195279,,20,400,0,Delantero centro,0,10,1
+266,kostic,eintracht,Filip Kostic,9900,Eintracht de Francfort,Serbia,0,0,1.84,Nike,1,3,6,1900,0.09473684211,0.1894736842,0.2842105263,0.1075103489,,26,676,0,Extremo izquierdo,1,10,612
+267,caprari,sampdoria,Gianluca Caprari,2400,UC Sampdoria,Italia,0,1,1.71,,0,5,2,991,0.3027245207,0.1210898083,0.423814329,0.2782344471,22.2,25,625,0,Media punta,0,10,14
+268,onyekuru,galatasaray,Henry Onyekuru,40500,Galatasaray Istanbul,Nigeria,0,0,1.75,,0,9,0,1662,0.3249097473,0,0.3249097473,0.2811016915,59.9,21,441,0,Extremo izquierdo,1,10,2438
+269,muniain,athleticclub,Iker Muniain,18100,Athletic Club,España,1,1,1.69,,0,6,2,1481,0.2430790007,0.08102633356,0.3241053342,0.2212292029,,26,676,0,Extremo izquierdo,1,10,61
+270,slimani,fenerbahce,Islam Slimani,74000,Fenerbahce Istanbul,Argelia,0,0,1.88,Nike,1,4,0,1777,0.1350590884,0,0.1350590884,0.1168488742,1300,30,900,0,Delantero centro,0,10,515
+271,cavaleiro,wolves,Ivan Cavaleiro,12100,Wolverhampton Wanderers,,0,0,1.75,,0,3,2,619,0.2907915994,0.1938610662,0.4846526656,0.277722314,18.5,25,625,0,,0,10,29
+272,gudmundsso,burnley,Johann Berg Gudmundsson,2900,Burnley FC,Islandia,1,0,1.86,,0,2,5,1881,0.06379585327,0.1594896332,0.2232854864,0.07669838539,25.5,28,784,0,Extremo derecho,0,10,0
+273,jony,alaves,Jony,,Deportivo Alavés,España,1,1,1.79,,0,2,6,1475,0.0813559322,0.2440677966,0.3254237288,0.1032946106,22.6,27,729,0,Extremo izquierdo,1,10,403
+274,morales,levanteud,José Luis Morales,6600,Levante UD,España,1,1,1.8,,0,6,2,1826,0.1971522453,0.06571741512,0.2628696605,0.1794306952,,31,961,1,Extremo izquierdo,1,10,38
+275,martinez,atlutd,Josef Martínez,49500,Atlanta United FC,Venezuela,0,0,1.72,,0,100,23,14436,0.4156275977,0.09559434746,0.5112219451,0.3724770471,112,25,625,0,Delantero centro,0,10,788
+276,mitroglou,om,Konstantinos Mitroglou,3600,Olympique de Marseille,Grecia,0,0,1.88,,0,3,0,737,0.2442333786,0,0.2442333786,0.2113030354,,30,900,0,Delantero centro,0,10,159
+277,pavoletti,cagliaricalcio,Leonardo Pavoletti,5400,Cagliari Calcio,Italia,0,1,1.88,Asics,0,9,1,1480,0.3648648649,0.04054054054,0.4054054054,0.3211357425,,30,900,0,Delantero centro,0,10,18
+278,dejong,psv,Luuk de Jong,49500,PSV Eindhoven,Países Bajos,0,0,1.88,,0,19,9,2421,0.4708798017,0.2230483271,0.6939281289,0.437464322,41.8,28,784,0,Delantero centro,0,10,4
+279,gabbiadini,sampdoria,Manolo Gabbiadini,9900,UC Sampdoria,Italia,0,1,1.81,,0,2,1,656,0.1829268293,0.09146341463,0.2743902439,0.1705946835,241,27,729,0,Delantero centro,0,10,47
+280,vydra,burnley,Matej Vydra,9900,Burnley FC,,0,0,1.8,,0,2,1,512,0.234375,0.1171875,0.3515625,0.2185744382,,26,676,0,,0,10,78
+281,kruse,werderbremen,Max Kruse,33100,SV Werder Bremen,Alemania,0,1,1.8,adidas,0,5,7,1758,0.1706484642,0.2389078498,0.409556314,0.1798519768,,30,900,0,Delantero centro,0,10,140
+282,petersen,scfreiburg,Nils Petersen,49500,SC Freiburg,Alemania,0,1,1.88,adidas,0,6,0,1342,0.2682563338,0,0.2682563338,0.2320869405,,30,900,0,Delantero centro,0,10,20
+283,burke,celtic,Oliver Burke,12100,Celtic FC,Escocia,0,0,1.88,adidas,0,6,3,837,0.4301075269,0.2150537634,0.6451612903,0.4011115138,40.9,21,441,0,Extremo derecho,0,10,333
+284,sisto,rccelta,Pione Sisto,33100,Celta de Vigo,Dinamarca,1,0,1.72,,0,2,1,761,0.1576872536,0.07884362681,0.2365308804,0.1470566522,,23,529,0,Extremo izquierdo,1,10,24
+285,ghezzal,lcfc,Rachid Ghezzal,18100,Leicester City,Argelia,1,0,1.82,Nike,1,3,0,879,0.204778157,0,0.204778157,0.177167619,,26,676,0,Extremo derecho,0,10,14
+286,horta,scbraga,Ricardo Horta,3600,SC Braga,Portugal,0,0,1.73,,0,8,3,1594,0.3011292346,0.112923463,0.4140526976,0.2757531755,,24,576,0,Extremo izquierdo,1,10,7
+287,rodrygo,santos,Rodrygo,,Santos FC,Brasil,0,1,1.73,,0,9,3,3253,0.1660006148,0.05533353827,0.2213341531,0.1510792112,50,18,324,0,Extremo izquierdo,1,10,1886
+288,mounie,htafc,Steve Mounié,5400,Huddersfield Town,Benín,1,0,1.9,,0,1,3,1207,0.04971002486,0.1491300746,0.1988400994,0.06311497538,,24,576,0,Delantero centro,0,10,122
+289,abraham,avfc,Tammy Abraham,6010,Aston Villa,Inglaterra,1,1,1.9,,0,19,1,2085,0.5467625899,0.02877697842,0.5755395683,0.4769218333,107,21,441,0,Delantero centro,0,10,445
+290,ince,stokecity,Tom Ince,14800,Stoke City,Inglaterra,1,1,1.78,,0,6,5,2272,0.1584507042,0.1320422535,0.2904929577,0.1548900142,,26,676,0,Extremo derecho,0,10,20
+291,deeney,watfordfc,Troy Deeney,49500,FC Watford,,0,0,1.84,,0,6,2,1655,0.2175226586,0.07250755287,0.2900302115,0.1979700601,,30,900,0,,0,10,438
+292,germain,om,Valère Germain,18100,Olympique de Marseille,Francia,0,1,1.8,,0,3,0,1318,0.1365705615,0,0.1365705615,0.1181565532,96.5,28,784,0,Delantero centro,0,10,1223
+293,tsyhankov,dynamokyiv,Viktor Tsyhankov,1000,Dynamo Kyiv,Ucrania,0,0,1.77,,0,11,8,2423,0.2723895997,0.198101527,0.4704911267,0.2623732303,,21,441,0,Extremo derecho,0,10,2
+294,karamoh,girondins,Yann Karamoh,14800,FC Girondins de Bordeaux,Francia,0,1,1.85,,0,3,3,1173,0.1534526854,0.1534526854,0.3069053708,0.1534526854,,20,400,0,Extremo derecho,0,10,150
+295,konoplianka,s04,Yevhen Konoplianka,5400,FC Schalke 04,Ucrania,0,0,1.78,,0,1,2,931,0.06444683136,0.1288936627,0.1933404941,0.07313629177,21.4,29,841,0,Extremo izquierdo,1,10,2
+296,muto,nufc,Yoshinori Muto,3050,Newcastle United,Japón,1,0,1.78,,0,1,0,539,0.1113172542,0,0.1113172542,0.0963081862,,26,676,0,Delantero centro,0,10,64
+297,azmoun,fcrk,Sardar Azmoun,40500,Rubin Kazan,Irán,0,0,1.86,,0,5,4,1439,0.2084781098,0.1667824878,0.3752605976,0.2028562282,,24,576,0,Delantero centro,0,9.5,0
+298,pato,tianhai,Alexandre Pato,110000,Tianjin Tianhai,Brasil,0,1,1.8,,0,149,46,24836,0.3599613464,0.1111290063,0.4710903527,0.3264109185,,29,841,0,Delantero centro,0,9,83
+299,ayew,fenerbahce,André Ayew,74000,Fenerbahce Istanbul,Ghana,0,0,1.76,,0,4,2,1869,0.1284109149,0.06420545746,0.1926163724,0.1197539993,524,29,841,0,Extremo derecho,0,9,508
+300,modeste,fckoeln,Anthony Modeste,40500,1.FC Köln,Francia,0,1,1.87,,0,141,33,24348,0.3474618038,0.08132084771,0.4287826516,0.31157763,30.8,30,900,0,Delantero centro,0,9,46
+301,zahavi,guangzhou,Eran Zahavi,5400,Guangzhou R&F,Israel,0,0,1.81,Nike,1,214,53,28115,0.456695714,0.1131068824,0.5698025965,0.41036913,,31,961,1,Media punta,0,9,22
+302,rodrigues,ittihad,Garry Rodrigues,49500,Al-Ittihad Jedah,Cabo Verde,0,0,1.73,,0,4,2,1513,0.1586252479,0.07931262393,0.2379378718,0.1479314109,,28,784,0,Extremo izquierdo,1,9,4
+303,gervinho,parmacalcio,Gervinho,,Parma Calcio 1913,Costa de Marfil,0,0,1.79,Nike,1,6,2,1080,0.3333333333,0.1111111111,0.4444444444,0.3033707865,413,31,961,1,Extremo izquierdo,1,9,3
+304,burgstaller,s04,Guido Burgstaller,8100,FC Schalke 04,Austria,0,0,1.87,,0,3,2,1109,0.1623083859,0.1082055906,0.2705139766,0.155013627,,29,841,0,Delantero centro,0,9,201
+305,seferovic,benfica,Haris Seferovic,9900,SL Benfica,Suiza,0,0,1.86,adidas,0,11,5,1909,0.3457307491,0.1571503405,0.5028810896,0.3203041771,,26,676,0,Delantero centro,0,9,952
+306,kodjia,avfc,Jonathan Kodjia,5400,Aston Villa,,0,0,1.89,,0,6,4,1576,0.2284263959,0.152284264,0.3807106599,0.2181600411,30.8,29,841,0,,0,9,100
+307,ibe,afcbournemouth,Jordon Ibe,8100,AFC Bournemouth,,0,0,1.76,,0,2,0,712,0.1685393258,0,0.1685393258,0.1458149224,,23,529,0,,0,9,1
+308,terrier,ol,Martin Terrier,18100,Olympique Lyonnais,Francia,0,1,1.84,,0,4,0,855,0.2807017544,0,0.2807017544,0.2428543268,,21,441,0,Extremo izquierdo,1,9,587
+309,phillips,wba,Matt Phillips,9900,West Bromwich Albion,Escocia,1,0,1.83,,0,5,6,1871,0.1603420631,0.1924104757,0.3527525387,0.164665894,,27,729,0,Extremo derecho,0,9,1578
+310,konate,amienssc,Moussa Konaté,3600,SC Amiens,Senegal,0,0,1.83,,0,3,1,821,0.2192448234,0.0730816078,0.2923264312,0.1995374235,,25,625,0,Delantero centro,0,9,40
+311,maolida,ogcnice,Myziane Maolida,4400,OGC Nice,Francia,0,1,1.82,,0,1,4,907,0.06615214994,0.2646085998,0.3307607497,0.09291032296,,19,361,0,Delantero centro,0,9,12
+312,radonjic,om,Nemanja Radonjic,18100,Olympique de Marseille,Serbia,0,0,1.85,Nike,1,4,1,1145,0.2096069869,0.05240174672,0.2620087336,0.1884107747,,22,484,0,Extremo izquierdo,1,9,180
+313,jorgensen,feyenoord,Nicolai Jörgensen,6600,Feyenoord Rotterdam,Dinamarca,0,0,1.9,,0,6,1,901,0.3995560488,0.06659267481,0.4661487236,0.3546621108,32.7,28,784,0,Delantero centro,0,9,15
+314,ighalo,ccytfc,Odion Ighalo,14800,Changchun Yatai,Nigeria,0,0,1.83,Nike,1,121,25,19804,0.3665926076,0.07574227429,0.4423348818,0.3273768323,43.1,29,841,0,Delantero centro,0,9,0
+315,soares,porto,Tiquinho Soares,,FC Porto,Brasil,0,1,1.87,Puma,0,13,5,1279,0.6098514464,0.2345582486,0.8444096951,0.5592501164,,28,784,0,Delantero centro,0,9,3188
+316,wanderson,krasnodar,Wanderson,,FK Krasnodar,Brasil,0,1,1.75,,0,5,4,1751,0.1713306682,0.1370645346,0.3083952027,0.1667105153,,24,576,0,Extremo izquierdo,1,9,80
+317,kokorin,zenit,Aleksandr Kokorin,9900,Zenit St. Petersburg,Rusia,0,0,1.83,,0,2,0,125,0.96,0,0.96,0.8305617978,87.6,27,729,0,Delantero centro,0,8.5,117
+318,gaitan,DalianYifang,Nico Gaitán,14800,Dalian Yifang,Argentina,0,1,1.74,adidas,0,60,113,27926,0.1289121249,0.2427845019,0.3716966268,0.1442657038,67.9,30,900,0,Extremo izquierdo,1,8.5,32
+319,diakhaby,htafc,Adama Diakhaby,5400,Huddersfield Town,Francia,1,1,1.84,,0,0,0,363,0,0,0,0,,22,484,0,Delantero centro,0,8,28
+320,alan,gzevergrande,Alan,,Guangzhou Evergrande Taobao,Brasil,0,1,1.85,,0,163,66,18279,0.5350402101,0.2166420483,0.7516822583,0.4921101208,0.133,29,841,0,Delantero centro,0,8,0
+321,carroll,westham,Andy Carroll,74000,West Ham United,Inglaterra,1,1,1.93,,0,1,0,445,0.1348314607,0,0.1348314607,0.1166519379,295,30,900,0,Delantero centro,0,8,47
+322,knockaert,bhafc,Anthony Knockaert,9900,Brighton & Hove Albion,Francia,1,1,1.72,,0,2,5,1321,0.09084027252,0.2271006813,0.3179409538,0.1092124625,,27,729,0,Extremo derecho,0,8,965
+323,barnes,burnley,Ashley Barnes,22200,Burnley FC,Inglaterra,1,1,1.86,,0,5,1,1523,0.1969796454,0.03939592909,0.2363755745,0.1757324028,,29,841,0,Delantero centro,0,8,430
+324,sousa,scbraga,Dyego Sousa,1600,SC Braga,Brasil,0,1,1.9,,0,17,5,1796,0.5679287305,0.1670378619,0.7349665924,0.5138760291,,29,841,0,Delantero centro,0,8,14
+325,unal,valladolid,Enes Ünal,18100,Real Valladolid CF,Turquía,1,0,1.87,,0,3,1,1390,0.1294964029,0.04316546763,0.1726618705,0.1178562768,,21,441,0,Delantero centro,0,8,92
+326,choupo,psg,Eric Maxim Choupo-Moting,22200,FC Paris Saint-Germain,Camerún,0,0,1.91,Puma,0,1,1,505,0.1188118812,0.1188118812,0.2376237624,0.1188118812,,29,841,0,Delantero centro,0,8,884
+327,barco,atlutd,Ezequiel Barco,49500,Atlanta United FC,Argentina,0,1,1.67,,0,13,9,5079,0.1535735381,0.1063201418,0.2598936799,0.1472022936,,19,361,0,Extremo izquierdo,1,8,534
+328,tait,angers,Flavien Tait,1600,SCO Angers,Francia,0,1,1.75,Nike,1,2,7,1646,0.07290400972,0.255164034,0.3280680437,0.09747839502,,25,625,0,Extremo izquierdo,1,8,18
+329,barbosa,flamengo,Gabriel Barbosa,60500,Clube de Regatas do Flamengo,Brasil,0,1,1.78,Nike,1,45,13,9454,0.2855933996,0.08250475989,0.3680981595,0.2582106617,630,22,484,0,Media punta,0,8,1867
+330,laborde,mhr,Gaëtan Laborde,5400,Montpellier Hérault SC,,0,0,1.81,,0,9,2,1746,0.3092783505,0.06872852234,0.3780068729,0.2768446658,,24,576,0,,0,8,0
+331,pussetto,udinese,Ignacio Pussetto,4400,Udinese Calcio,,0,0,1.8,,0,3,2,1214,0.1482701812,0.09884678748,0.2471169687,0.1416063528,,23,529,0,,0,8,382
+332,ayew,cpfc,Jordan Ayew,33100,Crystal Palace,Ghana,1,0,1.82,,0,2,1,1014,0.1183431953,0.05917159763,0.1775147929,0.1103650023,,27,729,0,Delantero centro,0,8,25
+333,hugil,middlesbrough,Jordan Hugill,18100,Middlesbrough FC,,0,0,1.83,,0,7,1,1640,0.256097561,0.03658536585,0.2926829268,0.2265004111,,26,676,0,,0,8,0
+334,murphy,cardiffcity,Josh Murphy,9900,Cardiff City,,0,0,1.73,,0,3,0,1206,0.1492537313,0,0.1492537313,0.1291296327,37.7,23,529,0,,0,8,0
+335,lasagna,udinese,Kevin Lasagna,22200,Udinese Calcio,Italia,0,1,1.81,,0,3,0,1569,0.1147227533,0,0.1147227533,0.09925451694,,26,676,0,Delantero centro,0,8,458
+336,boateng,fcbarcelona,Kevin-Prince Boateng,110000,FC Barcelona,Ghana,1,0,1.86,adidas,0,5,2,1149,0.2610966057,0.1044386423,0.365535248,0.2399741837,1640,31,961,1,Delantero centro,0,8,352
+337,babacar,sassuolo,Khouma Babacar,4400,US Sassuolo,Senegal,0,0,1.85,,0,6,3,941,0.3825717322,0.1912858661,0.5738575983,0.3567803795,,25,625,0,Delantero centro,0,8,166
+338,pratto,carp,Lucas Pratto,60500,Club Atlético River Plate,Argentina,0,1,1.88,,0,0,2,1000,0,0.12,0.12,0.01617977528,,30,900,0,Delantero centro,0,8,92
+339,muriel,fiorentina,Luis Muriel,33100,ACF Fiorentina,Colombia,0,0,1.79,,0,7,4,1031,0.407371484,0.2327837051,0.6401551891,0.3838315588,0.01,27,729,0,Delantero centro,0,8,858
+340,wolf,bvb,Marius Wolf,27100,Borussia Dortmund,Alemania,0,1,1.87,,0,1,0,599,0.1001669449,0,0.1001669449,0.08666128941,,23,529,0,Extremo derecho,0,8,200
+341,braithwaite,cdleganes,Martin Braithwaite,18100,CD Leganés,Dinamarca,1,0,1.77,Nike,1,5,1,1619,0.1852995676,0.03705991353,0.2223594812,0.1653121985,,27,729,0,Delantero centro,0,8,103
+342,gradel,toulouse,Max Gradel,5400,Toulouse FC,,0,0,1.75,,0,10,7,2007,0.2989536622,0.2092675635,0.5082212257,0.2868611545,33.7,31,961,1,,0,8,141
+343,niang,staderennais,M'Baye Niang,21690,Stade Rennais FC,Senegal,0,0,1.88,Nike,1,3,2,1038,0.1734104046,0.1156069364,0.289017341,0.1656166786,342,24,576,0,Delantero centro,0,8,419
+344,sliti,dijon,Naïm Sliti,5400,Dijon Football Côte d'Or,,0,0,1.73,,0,6,9,1789,0.2012297373,0.3018446059,0.5030743432,0.214795787,,26,676,0,,0,8,22
+345,gonzalez,vfb,Nicólas González,8100,VfB Stuttgart,Argentina,0,1,1.8,,0,2,1,1427,0.08409250175,0.04204625088,0.1261387526,0.07842334433,,20,400,0,Delantero centro,0,8,55
+346,pellegri,monaco,Pietro Pellegri,40500,AS Monaco,Italia,0,1,1.88,,0,1,0,79,0.7594936709,0,0.7594936709,0.6570900299,,17,289,0,Delantero centro,0,8,130
+347,guedes,luneng,Roger Guedes,60500,Shandong Luneng Taishan,Brasil,0,1,1.82,,0,21,9,6721,0.1874721024,0.08034518673,0.2678172891,0.1730280239,,22,484,0,Extremo derecho,0,8,26
+348,matrí,levanteud,Roger Martí,6600,Levante UD,España,1,1,1.79,,0,9,0,1170,0.4615384615,0,0.4615384615,0.3993085566,12.6,28,784,0,Delantero centro,0,8,0
+349,berahino,stokecity,Saido Berahino,22200,Stoke City,Burundi,1,0,1.79,Nike,1,5,1,1593,0.1883239171,0.03766478343,0.2259887006,0.1680103261,116,25,625,0,Delantero centro,0,8,15
+350,wagner,bayern,Sandro Wagner,165000,FC Bayern de Múnich,Alemania,0,1,1.94,Nike,1,1,0,264,0.2272727273,0,0.2272727273,0.1966292135,,31,961,1,Delantero centro,0,8,74
+351,trincao,scbraga,Trincão,,SC Braga,Portugal,0,0,1.84,Nike,1,0,1,428,0,0.1401869159,0.1401869159,0.01890160664,,19,361,0,Media punta,0,8,0
+352,janssen,coys,Vincent Janssen,33100,Tottenham Hotspur,Países Bajos,1,0,1.83,,0,1,0,108,0.5555555556,0,0.5555555556,0.4806491885,114,24,576,0,Delantero centro,0,8,9
+353,vitinho,adsc,Vitinho,60500,Associação Desportiva São Caetano,,0,0,1.8,,0,0,0,117,0,0,0,0,,25,625,0,,0,8,0
+354,rooney,dcunited,Wayne Rooney,550000,D.C. United,Inglaterra,0,1,1.76,Nike,1,291,156,54036,0.3231179214,0.1732178548,0.4963357761,0.3029066764,17000,33,1089,1,Delantero centro,0,8,612
+355,ounas,napoli,Adam Ounas,12100,SSC Napoli,Argelia,0,0,1.72,,0,2,0,433,0.2771362587,0,0.2771362587,0.2397695721,,22,484,0,Extremo derecho,0,7.5,258
+356,pedraza,villareal,Alfonso Pedraza,4400,Villarreal CF,,0,0,1.84,,0,1,5,1482,0.04048582996,0.2024291498,0.2429149798,0.06232088432,,22,484,0,,0,7.5,4
+357,kwon,dijon,Chang-hoon Kwon,5400,Dijon Football Côte d'Or,,0,0,1.74,,0,2,0,365,0.3287671233,0,0.3287671233,0.2844389718,,24,576,0,,0,7.5,4
+358,bande,ajax,Hassane Bandé,3600,AFC Ajax Amsterdam,Burkina Faso,0,0,1.78,,0,12,2,2136,0.3370786517,0.05617977528,0.393258427,0.2992046459,,20,400,0,Extremo izquierdo,1,7.5,66
+359,susaeta,athleticclub,Markel Susaeta,3600,Athletic Club,,0,0,1.79,,0,1,4,1271,0.04720692368,0.1888276947,0.2360346184,0.0663018591,,31,961,1,,0,7.5,57
+360,alsoma,nffc,Omar Al-Soma,2400,Nottingham Forest FC,,0,0,1.92,Nike,1,11,4,1184,0.5574324324,0.2027027027,0.7601351351,0.5096037048,,29,841,0,,0,7.5,0
+361,doan,groningen,Ritsu Doan,6600,FC Groningen,Japón,0,0,1.72,Nike,1,4,2,1620,0.1481481481,0.07407407407,0.2222222222,0.1381606325,,20,400,0,Extremo derecho,0,7.5,72
+362,assale,fcbyb,Roger Assalé,2900,BSC Young Boys,Costa de Marfil,0,0,1.67,,0,7,5,1654,0.253929867,0.1813784764,0.4353083434,0.244147657,,25,625,0,Delantero centro,0,7.5,13
+363,borre,carp,Santos Borré,12100,Club Atlético River Plate,Colombia,0,0,1.74,,0,5,2,837,0.3584229391,0.1433691756,0.5017921147,0.329426926,,23,529,0,Delantero centro,0,7.5,34
+364,enrich,eibar,Sergi Enrich,14800,Sociedad Deportiva Eibar,,0,0,1.81,,0,5,1,1475,0.2033898305,0.0406779661,0.2440677966,0.1814511522,,28,784,0,,0,7.5,94
+365,sanabria,genoacfc,Antonio Sanabria,9900,Genoa CFC,Paraguay,0,0,1.81,,0,6,2,1384,0.2601156069,0.08670520231,0.3468208092,0.2367344288,0.004736,22,484,0,Delantero centro,0,7,6
+366,cheryshev,valencia,Denis Cheryshev,18600,Valencia CF,Rusia,1,0,1.79,,0,2,2,1113,0.1078167116,0.1078167116,0.2156334232,0.1078167116,688,28,784,0,Extremo izquierdo,1,7,167
+367,djaniny,alahli,Djaniny,,Al-Ahli Saudi Football Club,,0,0,1.9,,0,13,3,847,0.9208972845,0.212514758,1.133412043,0.8253850338,,27,729,0,,0,7,1
+368,eder,suning,Éder,90500,Jiangsu Suning,Italia,0,1,1.78,,0,129,52,27439,0.2820802507,0.1137067677,0.3957870185,0.2593782081,,32,1024,1,Media punta,0,7,1
+369,junior,duhail,Edmílson Junior,6600,Al Duhail Sports Club,Bélgica,0,0,1.8,Nike,1,4,1,1106,0.2169981917,0.05424954792,0.2712477396,0.1950545543,,24,576,0,Extremo izquierdo,1,7,0
+370,rigoni,zenit,Emiliano Rigoni,14800,Zenit St. Petersburg,Argentina,0,1,1.8,adidas,0,3,0,591,0.3045685279,0,0.3045685279,0.2635031084,,25,625,0,Extremo derecho,0,7,159
+371,everton,gremio,Everton,5400,Grêmio Foot-Ball Porto Alegrense,Brasil,0,1,1.74,,0,31,9,7558,0.246096851,0.07144747288,0.3175443239,0.2225486203,,22,484,0,Extremo izquierdo,1,7,3168
+372,borini,acmilan,Fabio Borini,18100,AC Milan,Italia,0,1,1.8,,0,2,1,719,0.1668984701,0.08344923505,0.2503477051,0.1556468878,,27,729,0,Extremo izquierdo,1,7,31
+373,forestieri,swfc,Fernando Forestieri,4400,sheffield Wednesday FC,,0,0,1.72,,0,3,1,807,0.2230483271,0.07434944238,0.2973977695,0.2029990393,,29,841,0,,0,7,43
+374,nkoudou,coys,Georges-Kevin N'Koudou,2900,Tottenham Hotspur,Francia,1,1,1.74,,0,0,1,121,0,0.4958677686,0.4958677686,0.06685857554,101,23,529,0,Extremo izquierdo,1,7,4
+375,belfodil,tsghoffenheim,Ishak Belfodil,8100,TSG 1899 Hoffenheim,Argelia,0,0,1.91,,0,5,2,1196,0.2508361204,0.1003344482,0.3511705686,0.2305437601,,27,729,0,Delantero centro,0,7,10
+376,murphy,wba,Jacob Murphy,8100,West Bromwich Albion FC,,0,0,1.73,,0,0,2,581,0,0.2065404475,0.2065404475,0.02784815023,65.6,23,529,0,,0,7,60
+377,siebatcheu,staderennais,Jordan Siebatcheu,2400,Stade Rennais FC,,0,0,1.9,,0,5,1,991,0.3027245207,0.06054490414,0.3632694248,0.2700710892,0.003689,22,484,0,,0,7,0
+378,cabral,sporting_cp,Jovane Cabral,,Sporting CP,Cabo Verde,0,0,1.76,,0,4,7,899,0.2669632925,0.467185762,0.7341490545,0.2939595806,,20,400,0,Extremo derecho,0,7,2
+379,zohore,cardiffcity,Kenneth Zohore,5400,Cardiff City,,0,0,1.9,,0,0,0,308,0,0,0,0,,24,576,0,,0,7,0
+380,dimata,anderlecht,Landry Dimata,2900,RSC Anderlecht,Bélgica,0,0,1.85,,0,13,4,1771,0.4404291361,0.1355166573,0.5759457933,0.3993173412,,21,441,0,Delantero centro,0,7,19
+381,mothiba,rcsa,Lebo Mothiba,8100,RC Strasbourg Alsace,Sudáfrica,0,0,1.82,adidas,0,8,2,1314,0.3652968037,0.09132420091,0.4566210046,0.3283566774,11.5,23,529,0,Delantero centro,0,7,23
+382,araujo,losc,Luiz Araújo,8100,LOSC Lille Métropole,,0,0,1.75,,0,3,0,572,0.3146853147,0,0.3146853147,0.2722558341,,22,484,0,,0,7,44
+383,diouf,stokecity,Mame Diouf,5400,Stoke City,Senegal,1,0,1.85,,0,0,1,537,0,0.1117318436,0.1117318436,0.01506496767,,31,961,1,Delantero centro,0,7,14
+384,diaby,psg,Moussa Diaby,22200,FC Paris Saint-Germain,Francia,0,1,1.7,,0,3,6,698,0.2578796562,0.5157593123,0.7736389685,0.2926499469,,19,361,0,Extremo izquierdo,1,7,140
+385,sansone,bologna,Nicola Sansone,8100,FC Bologna,Italia,0,1,1.73,Nike,1,1,2,608,0.09868421053,0.1973684211,0.2960526316,0.1119899468,,27,729,0,Extremo izquierdo,1,7,67
+386,preville,girondins,Nicolas de Préville,1600,FC Girondins de Bordeaux,,0,0,1.82,,0,2,1,809,0.1483312732,0.07416563659,0.2224969098,0.1383314121,,28,784,0,,0,7,139
+387,watkins,brentford,Ollie Watkins,5400,FC Brentford,Inglaterra,1,1,1.8,,0,7,4,2098,0.2001906578,0.1143946616,0.3145853194,0.1886226583,,23,529,0,Extremo izquierdo,1,7,35
+388,niasse,cardiffcity,Oumar Niasse,14800,Cardiff City,Senegal,1,0,1.82,,0,0,1,239,0,0.2510460251,0.2510460251,0.03384890226,0.006573,28,784,0,Delantero centro,0,7,0
+389,sobhi,alahly,Ramadan Sobhi,27100,El Ahly Cairo,Egipto,0,0,1.83,,0,1,1,525,0.1142857143,0.1142857143,0.2285714286,0.1142857143,,22,484,0,Extremo izquierdo,1,7,1
+390,tomas,vallecano,Raúl de Tomás,2804,Rayo Vallecano,España,1,1,1.8,,0,8,0,1412,0.3399433428,0,0.3399433428,0.2941082853,,24,576,0,Delantero centro,0,7,93
+391,snodgrass,westham,Robert Snodgrass,12100,West Ham United,,0,0,1.82,Nike,1,4,7,1673,0.1434548715,0.2510460251,0.3945008966,0.1579615439,,31,961,1,,0,7,3
+392,kalu,girondins,Samuel Kalu,,FC Girondins de Bordeaux,,0,0,1.76,,0,4,4,1858,0.1291711518,0.1291711518,0.2583423036,0.1291711518,,21,441,0,,0,7,47
+393,long,southampton,Shane Long,22200,Southampton FC,,0,0,1.8,,0,1,2,837,0.07168458781,0.1433691756,0.2150537634,0.0813499255,,32,1024,1,,0,7,262
+394,bony,swans,Wilfried Bony,27100,Swansea City,Costa de Marfil,1,0,1.81,,0,1,0,181,0.3314917127,0,0.3314917127,0.2867962009,61.2,30,900,0,Delantero centro,0,7,0
+395,luis,fcsm,Zé Luís,2900,Spartak Moskva,Cabo Verde,0,0,1.84,,0,11,1,1673,0.3945008966,0.03586371787,0.4303646145,0.3461453219,,28,784,0,Delantero centro,0,7,1
+396,hernandez,pfccska,Abel Hernández,27100,CSKA Moscú,Uruguay,0,1,1.85,Nike,1,2,1,406,0.2955665025,0.1477832512,0.4433497537,0.2756406708,0.005438,28,784,0,Delantero centro,0,6.5,0
+397,cerri,cagliaricalcio,Alberto Cerri,5400,Cagliari Calcio,Italia,0,1,1.94,Nike,1,1,0,508,0.1181102362,0,0.1181102362,0.1021852606,,22,484,0,Delantero centro,0,6.5,1
+398,njie,om,Clinton N'Jie,18100,Olympique de Marseille,Camerún,0,0,1.75,,0,1,0,325,0.1846153846,0,0.1846153846,0.1597234226,,25,625,0,Delantero centro,0,6.5,85
+399,kownacki,sampdoria,Dawid Kownacki,22200,UC Sampdoria,Polonia,0,0,1.86,Nike,1,2,1,359,0.3342618384,0.1671309192,0.5013927577,0.3117273325,,21,441,0,Delantero centro,0,6.5,17
+400,acheampong,tianjin,Frank Acheampong,2400,Tianjin Teda,Ghana,0,0,1.68,Nike,1,47,28,14374,0.1961875609,0.1168776958,0.3130652567,0.1854940959,,25,625,0,Extremo izquierdo,1,6.5,0
+401,mirallas,fiorentina,Kevin Mirallas,27100,ACF Fiorentina,Bélgica,0,0,1.82,New Balance,0,2,0,656,0.1829268293,0,0.1829268293,0.1582625377,,31,961,1,Extremo derecho,0,6.5,89
+402,adriano,fcsm,Luiz Adriano,14800,Spartak Moskva,Brasil,0,1,1.83,,0,5,4,1241,0.2417405318,0.1933924255,0.4351329573,0.235221686,,31,961,1,Delantero centro,0,6.5,4
+403,samatta,krcgenk,Mbwana Samatta,8100,KRC Genk,Tanzania,0,0,1.8,,0,25,3,2623,0.5718642775,0.06862371331,0.6404879909,0.5040116172,,26,676,0,Delantero centro,0,6.5,4
+404,raphinha,sporting_cp,Raphinha,,Sporting CP,Brasil,0,1,1.76,,0,3,2,1147,0.1569311247,0.1046207498,0.2615518745,0.1498780404,,22,484,0,Extremo izquierdo,1,6.5,154
+405,ajeti,basel,Albian Ajeti,4400,FC Basel 1893,Suiza,0,0,1.83,,0,12,7,2152,0.3345724907,0.1951672862,0.529739777,0.3157762834,,21,441,0,Delantero centro,0,6,9
+406,prijovic,ittihad,Aleksandar Prijovic,14800,Al-Ittihad Jedah,Serbia,0,0,1.91,Nike,1,18,0,2109,0.5120910384,0,0.5120910384,0.4430450557,,28,784,0,Delantero centro,0,6,13
+407,sorloth,kaagent,Alexander Sörloth,1900,KAA Gent,Noruega,0,0,1.95,Nike,1,2,2,715,0.1678321678,0.1678321678,0.3356643357,0.1678321678,0.005568,23,529,0,Delantero centro,0,6,11
+408,carrillo,alhilal,André Carrillo,74000,Al-Hilal Riyadh,Perú,0,0,1.81,,0,2,3,1318,0.09104704097,0.1365705615,0.2276176024,0.09718504373,299,27,729,0,Extremo derecho,0,6,15
+409,favilli,genoafc,Andrea Favilli,22200,Genoa CFC,,0,0,1.91,,0,0,2,151,0,0.7947019868,0.7947019868,0.1071508297,,21,441,0,,0,6,0
+410,gumina,empoli,Antonino La Gumina,2400,Empoli FC,,0,0,1.82,,0,2,3,1126,0.1065719361,0.1598579041,0.2664298401,0.113756561,,22,484,0,,0,6,47
+411,zeneli,stade,Arbër Zeneli,6600,Stade Reims,Kosovo,0,0,1.76,,0,4,11,1594,0.1505646173,0.4140526976,0.5646173149,0.1860911001,,23,529,0,Extremo izquierdo,1,6,33
+412,atsu,nufc,Christian Atsu,8100,Newcastle United,Ghana,1,0,1.65,Nike,1,0,0,1066,0,0,0,0,,27,729,0,Extremo izquierdo,1,6,112
+413,tello,betis,Cristian Tello,18100,Real Betis Balompié,España,1,1,1.78,adidas,0,3,8,1661,0.1083684527,0.2889825406,0.3973509934,0.132720914,,27,729,0,Extremo izquierdo,1,6,734
+414,lukebakio,fortuna,Dodi Lukebakio,2400,Fortuna Düsseldorf,Bélgica,0,0,1.87,Nike,1,11,2,1172,0.5631399317,0.1023890785,0.6655290102,0.5010162212,,21,441,0,Extremo derecho,0,6,34
+415,dennis,clubbrugge,Emmanuel Dennis,880,Club Brugge KV,Nigeria,0,0,1.74,,0,5,0,1096,0.2737226277,0,0.2737226277,0.236816206,,21,441,0,Delantero centro,0,6,18
+416,ferreyra,benfica,Facundo Ferreyra,1882,SL Benfica,Argentina,0,1,1.86,,0,1,0,522,0.1149425287,0,0.1149425287,0.09944465969,,27,729,0,Delantero centro,0,6,27
+417,famara,Bristol,Famara Diédhiou,2400,Bristol City FC,,0,0,1.89,,0,8,2,1803,0.2662229617,0.06655574043,0.3327787022,0.2393015386,,26,676,0,,0,6,3
+418,santander,FC Bologna,Federico Santander,9900,bologna,,0,0,1.87,,0,5,2,1549,0.1936733376,0.07746933505,0.2711426727,0.1780053822,,27,729,0,,0,6,7
+419,mubele,toulouse,Firmin Mubele,3600,Toulouse FC,RD del Congo,0,0,1.75,,0,0,0,534,0,0,0,0,,24,576,0,Delantero centro,0,6,116
+420,andone,bhafc,Florin Andone,14800,Brighton & Hove Albion,,0,0,1.8,,0,3,0,719,0.2503477051,0,0.2503477051,0.2165929584,22.5,25,625,0,,0,6,24
+421,sol,dinamo,Fran Sol,14800,FC Dinamo de Kiev,,0,0,1.8,,0,17,0,1800,0.5666666667,0,0.5666666667,0.4902621723,,26,676,0,,0,6,20
+422,lapadula,genoacfc,Gianluca Lapadula,8100,Genoa CFC,Italia,0,1,1.78,adidas,0,1,0,128,0.46875,0,0.46875,0.4055477528,,28,784,0,Delantero centro,0,6,4
+423,pelle,luneng,Graziano Pellè,22200,Shandong Luneng Taishan,Italia,0,1,1.93,Nike,1,152,52,30294,0.3010497128,0.1029906912,0.404040404,0.2743451256,115,33,1089,1,Delantero centro,0,6,36
+424,calleri,alaves,Jonathan Calleri,14800,Deportivo Alavés,Argentina,1,1,1.81,,0,4,2,1441,0.1665510062,0.08327550312,0.2498265094,0.1553228485,463,25,625,0,Delantero centro,0,6,584
+425,jonathas,hannover96,Jonathas,5400,Hannover 96,Brasil,0,1,1.92,adidas,0,0,0,27,0,0,0,0,24.1,29,841,0,Delantero centro,0,6,15
+426,juanmi,realsociedad,Juanmi,5400,Real Sociedad,,0,0,1.72,,0,3,2,1105,0.1628959276,0.1085972851,0.2714932127,0.1555747623,,25,625,0,,0,6,25
+427,baptistao,zall,Leo Baptistão,8100,Wuhan Zall FC,,0,0,1.85,Nike,1,2,2,1466,0.08185538881,0.08185538881,0.1637107776,0.08185538881,,26,676,0,,0,6,0
+428,diony,Etienne,Loïs Diony,6600,Saint Etienne AS,,0,0,1.83,,0,7,2,1451,0.2894555479,0.08270158511,0.372157133,0.2615786091,,26,676,0,,0,6,7
+429,waldschmidt,scfreiburg,Luca Waldschmidt,5400,SC Freiburg,Alemania,0,1,1.81,,0,5,3,1203,0.2493765586,0.1496259352,0.3990024938,0.2359270363,,22,484,0,Delantero centro,0,6,18
+430,perez,westham,Lucas Pérez,60500,West Ham United,España,1,1,1.8,,0,5,0,616,0.487012987,0,0.487012987,0.4213483146,,30,900,0,Delantero centro,0,6,4
+431,vietto,fulham,Luciano Vietto,27100,FC Fulham,Argentina,1,1,1.73,,0,0,4,944,0,0.2542372881,0.2542372881,0.03427918492,,25,625,0,Delantero centro,0,6,28
+432,benitez,independiente,Martín Benítez,14800,Club Atlético Independiente,Argentina,0,1,1.73,,0,2,1,667,0.179910045,0.08995502249,0.2698650675,0.1677812779,,24,576,0,Extremo derecho,0,6,662
+433,barrow,atalanta,Musa Barrow,12100,Atalanta Bergamo,Gambia,0,0,1.83,,0,4,3,831,0.2888086643,0.2166064982,0.5054151625,0.2790735407,,20,400,0,Delantero centro,0,6,20
+434,blandi,sanlorenzo,Nicolás Blandi,6600,Club Atlético San Lorenzo de Almagro,Argentina,0,1,1.8,,0,4,0,590,0.406779661,0,0.406779661,0.3519329651,,29,841,0,Delantero centro,0,6,368
+435,castillo,benfica,Nicolás Castillo,49500,SL Benfica,Chile,0,0,1.79,,0,0,1,270,0,0.2222222222,0.2222222222,0.02996254682,,25,625,0,Delantero centro,0,6,37
+436,fernandez,defensayjus,Nicolás Fernández,3600,Defensa y Justicia CSD,,0,0,1.72,,0,4,2,1190,0.2016806723,0.1008403361,0.3025210084,0.1880842225,,22,484,0,,0,6,0
+437,bamford,lufc,Patrick Bamford,18100,Leeds United,Inglaterra,1,1,1.85,,0,2,1,252,0.4761904762,0.2380952381,0.7142857143,0.4440877475,152,25,625,0,Delantero centro,0,6,1877
+438,leao,losc,Rafael Leão,206,LOSC Lille Métropole,Portugal,0,0,1.88,,0,5,0,582,0.5154639175,0,0.5154639175,0.4459631646,,19,361,0,Delantero centro,0,6,65
+439,abila,bocajrs,Ramón Ábila,8100,Club Atlético Boca Juniors,,0,0,1.77,,0,1,2,264,0.2272727273,0.4545454545,0.6818181818,0.2579162411,,29,841,0,,0,6,5
+440,vokes,stokecity,Sam Vokes,8100,Stoke City,,0,0,1.86,,0,4,0,1353,0.177383592,0,0.177383592,0.1534667032,,29,841,0,,0,6,100
+441,nasri,westham,Samir Nasri,110000,West Ham United,Francia,1,1,1.77,New Balance,0,0,1,195,0,0.3076923077,0.3076923077,0.04148660328,,31,961,1,Extremo izquierdo,1,6,70
+442,ramirez,realsociedad,Sandro Ramírez,33100,Real Sociedad,España,1,1,1.75,,0,0,1,660,0,0.09090909091,0.09090909091,0.01225740552,168,23,529,0,Delantero centro,0,6,19
+443,giovinco,toronto,Sebastian Giovinco,33100,Toronto FC,Italia,0,1,1.64,Nike,1,132,98,26030,0.3042643104,0.2258932002,0.5301575106,0.2936974191,,32,1024,1,Media punta,0,6,34
+444,villa,valladolid,Toni Villa,4400,Real Valladolid CF,,0,0,1.72,,0,2,2,1568,0.07653061224,0.07653061224,0.1530612245,0.07653061224,,24,576,0,,0,6,112
+445,bozok,nimes,Umut Bozok,22200,Nimes Olympique ,,0,0,1.78,,0,2,4,1137,0.1055408971,0.2110817942,0.3166226913,0.1197711304,,22,484,0,,0,6,6
+446,grifo,scfreiburg,Vincenzo Grifo,12100,SC Freiburg,Italia,0,1,1.8,,0,1,3,540,0.1111111111,0.3333333333,0.4444444444,0.1410736579,,25,625,0,Extremo izquierdo,1,6,54
+447,misidjan,nurnberg,Virgil Misidjan,3600,1.FC Nürnberg,Países Bajos,0,0,1.73,,0,3,4,2274,0.07915567282,0.1055408971,0.1846965699,0.08271323115,,25,625,0,Extremo izquierdo,1,6,0
+448,said,dijon,Wesley Saïd,3600,Dijon Football Côte d'Or,,0,0,1.71,,0,4,0,1313,0.1827875095,0,0.1827875095,0.1581420026,,23,529,0,,0,6,54
+449,nesyri,cdleganes,Youssef En-Nesyri,9900,CD Leganés,,0,0,1.89,,0,6,2,1268,0.2839116719,0.09463722397,0.3785488959,0.2583915216,,21,441,0,,0,6,25
+450,osako,werderbremen,Yuya Osako,2040,SV Werder Bremen,Japón,0,0,1.82,Asics,0,4,1,1028,0.233463035,0.05836575875,0.2918287938,0.2098544135,,28,784,0,Delantero centro,0,6,2
+451,diaby,sporting_cp,Abdoulay Diaby,5400,Sporting CP,,0,0,1.73,,0,6,4,1455,0.2474226804,0.1649484536,0.412371134,0.2363025599,,27,729,0,,0,5.5,42
+452,verbic,dynamokyiv,Benjamin Verbic,1600,Dynamo Kyiv,Eslovenia,0,0,1.82,Nike,1,9,3,2245,0.2405345212,0.08017817372,0.3207126949,0.2189134406,,25,625,0,Extremo izquierdo,1,5.5,3
+453,poloz,fcrk,Dmitri Poloz,590,Rubin Kazan,Rusia,0,0,1.83,,0,3,0,1208,0.1490066225,0,0.1490066225,0.128915842,,27,729,0,Delantero centro,0,5.5,2
+454,fernando,shakhtar,Fernando,9900,Shakhtar Donetsk,Brasil,0,1,1.76,,0,2,1,661,0.1815431165,0.09077155825,0.2723146747,0.1693042547,,19,361,0,Extremo izquierdo,1,5.5,10
+455,diagne,kasimpasa,Mbaye Diagne,14800,Kasimpasa,Senegal,0,0,1.93,,0,20,2,1548,0.7751937984,0.07751937984,0.8527131783,0.6811253375,,27,729,0,Delantero centro,0,5.5,228
+456,garcia,toluca,Santiago García,8100,Deportivo Toluca,,0,0,1.81,,0,5,0,1249,0.2401921537,0,0.2401921537,0.2078066948,,28,784,0,,0,5.5,120
+457,trezeguet,kasimpasa,Trezeguet,110000,Kasimpasa,Egipto,0,0,1.79,,0,5,5,1828,0.1641137856,0.1641137856,0.3282275711,0.1641137856,,24,576,0,Extremo izquierdo,1,5.5,246
+458,elarabi,duhail,Youssef El Arabi,4400,Al Duhail Sports Club,,0,0,1.83,,0,15,0,1065,0.8450704225,0,0.8450704225,0.7311283431,,31,961,1,,0,5.5,0
+459,berenguer,torino,Álex Berenguer,1600,Torino FC,,0,0,1.75,,0,1,3,794,0.07556675063,0.2267002519,0.3022670025,0.09594430136,,23,529,0,,0,5,17
+460,garcia,vallecano,Álvaro García,8100,Rayo Vallecano,,0,0,1.67,,0,3,1,938,0.1918976546,0.06396588486,0.2558635394,0.1746484272,,26,676,0,,0,5,108
+461,ndiaye,getafe,Amath Ndiaye,3600,Getafe CF,,0,0,1.73,,0,1,2,1009,0.05946481665,0.1189296333,0.17839445,0.06748254474,,22,484,0,,0,5,7
+462,elghazi,avfc,Anwar El Ghazi,8100,Aston Villa,Países Bajos,1,0,1.89,Nike,1,4,2,1148,0.2090592334,0.1045296167,0.3135888502,0.1949653525,44.5,23,529,0,Extremo derecho,0,5,6
+463,sigurdsson,pfccska,Arnór Sigurdsson,,CSKA Moscú,,0,0,1.77,Nike,1,3,1,820,0.2195121951,0.07317073171,0.2926829268,0.1997807619,0.001648,19,361,0,,0,5,0
+464,brereton,blackburn,Ben Brereton,12100,Blackburn Rovers FC,,0,0,1.83,,0,0,3,513,0,0.350877193,0.350877193,0.04730928445,,19,361,0,,0,5,3
+465,woodburn,sufc,Ben Woodburn,6210,Sheffield United,Gales,1,0,1.74,Nike,1,0,0,398,0,0,0,0,162,19,361,0,Extremo izquierdo,1,5,7
+466,mayoral,levanteud,Borja Mayoral,60500,Levante UD,España,1,1,1.82,,0,3,0,1076,0.1672862454,0,0.1672862454,0.1447307965,,21,441,0,Delantero centro,0,5,332
+467,vinicius,monaco,Carlos Vinícius,1300,AS Monaco,Brasil,0,1,1.9,,0,14,2,1426,0.5890603086,0.08415147265,0.6732117812,0.5209827127,,23,529,0,Delantero centro,0,5,1293
+468,cucho,huesca,Cucho Hernandez,,Sociedad Deportiva Huesca,,0,0,1.76,,0,3,1,1599,0.1125703565,0.03752345216,0.1500938086,0.1024516727,,19,361,0,,0,5,88
+469,malen,psv,Donyell Malen,6600,eindhoven,,0,0,1.79,,0,5,4,727,0.4126547455,0.3301237964,0.742778542,0.4015269771,,20,400,0,,0,5,47
+470,haland,redbullsalzburg,Erling Braut Haland,,Red Bull Salzburg,Noruega,0,0,1.91,,0,4,1,406,0.5911330049,0.1477832512,0.7389162562,0.53135551,,18,324,0,Delantero centro,0,5,5
+471,torres,valencia,Ferrán Torres,18100,Valencia CF,España,1,1,1.84,,0,2,2,827,0.1451027811,0.1451027811,0.2902055623,0.1451027811,,18,324,0,Extremo derecho,0,5,505
+472,hwang,hsv,Hee-chan Hwang,3600,Hamburgo SV,Corea del Sur,0,0,1.77,,0,2,1,974,0.1232032854,0.06160164271,0.1848049281,0.114897446,,23,529,0,Delantero centro,0,5,29
+473,success,watfordfc,Isaac Success,12100,FC Watford,Nigeria,1,0,1.82,Nike,1,4,0,1197,0.2005012531,0,0.2005012531,0.1734673763,0.006437,23,529,0,Extremo izquierdo,1,5,32
+474,brown,lufc,Isaiah Brown,3600,Leeds United,Inglaterra,1,1,1.82,Nike,1,32,22,10376,0.1850424056,0.1272166538,0.3122590594,0.177245675,,22,484,0,Media punta,0,5,381
+475,mata,getafe,Jaime Mata,14800,Getafe CF,,0,0,1.86,,0,8,4,1283,0.3741231489,0.1870615744,0.5611847233,0.3489013636,,30,900,0,,0,5,1319
+476,bowen,hullcity,Jarrod Bowen,2900,Hull City AFC,,0,0,1.75,,0,14,3,2366,0.3550295858,0.07607776839,0.4311073542,0.3174181048,,22,484,0,,0,5,186
+477,adelaide,angers,Jeff Reine-Adélaïde,9900,SCO Angers,,0,0,1.84,,0,0,1,1510,0,0.03973509934,0.03973509934,0.005357541484,,21,441,0,,0,5,28
+478,gallardo,monterrey,Jesús Gallardo,27100,CF Monterrey,México,0,0,1.76,,0,5,3,2217,0.1353179973,0.08119079838,0.2165087957,0.128019948,,24,576,0,Extremo izquierdo,1,5,61
+479,tavares,montreal,Julio Tavarès,4400,AS Montréal-la-Cluse,,0,0,1.87,,0,5,3,1737,0.1727115717,0.103626943,0.2763385147,0.1633967903,,30,900,0,,0,5,62
+480,Keno,pyramids,Keno,,Pyramids FC,,0,0,1.74,,0,9,7,1789,0.3018446059,0.2347680268,0.5366126328,0.2928005728,,29,841,0,,0,5,65
+481,pintor,ol,Lenny Pintor,,Olympique Lyonnais,Francia,0,1,1.79,,0,3,1,516,0.3488372093,0.1162790698,0.4651162791,0.3174810557,,18,324,0,Delantero centro,0,5,168
+482,bonatini,wolves,Léo Bonatini,9900,Wolverhampton Wanderers,Brasil,1,1,1.84,,0,1,1,291,0.206185567,0.206185567,0.412371134,0.206185567,60.5,24,576,0,Delantero centro,0,5,3
+483,lincoln,flamengo,Lincoln,1900,Clube de Regatas do Flamengo,Brasil,0,1,1.78,,0,0,0,373,0,0,0,0,,18,324,0,Delantero centro,0,5,377
+484,romero,psv,Maximiliano Romero,12100,PSV Eindhoven,Argentina,0,1,1.79,,0,3,1,607,0.2965403624,0.09884678748,0.3953871499,0.269885049,,20,400,0,Delantero centro,0,5,14
+485,borja,palmeiras,Miguel Borja,40500,Sociedade Esportiva Palmeiras,Colombia,0,0,1.83,,0,44,14,8433,0.313055852,0.09960868018,0.4126645322,0.2842764581,,26,676,0,Delantero centro,0,5,3845
+486,djenepo,standard,Moussa Djenepo,1000,Standard Lieja,Malí,0,0,1.77,,0,8,4,1875,0.256,0.128,0.384,0.238741573,0.001413,20,400,0,Extremo izquierdo,1,5,94
+487,sylla,monaco,Moussa Sylla,6600,AS Monaco,Francia,0,1,1.81,,0,2,1,1366,0.0878477306,0.0439238653,0.1317715959,0.08192541168,0.007664,19,361,0,Delantero centro,0,5,15
+488,maupay,brentford,Neal Maupay,8100,FC Brentford,Francia,1,1,1.73,,0,17,6,2277,0.4479578393,0.1581027668,0.6060606061,0.4088762565,,22,484,0,Delantero centro,0,5,52
+489,costa,rcsa,Nuno Da Costa,5400,RC Strasbourg Alsace,Cabo Verde,0,0,1.82,,0,4,4,1336,0.1796407186,0.1796407186,0.3592814371,0.1796407186,,27,729,0,Delantero centro,0,5,10
+490,idrissi,az,Oussama Idrissi,3700,Az Alkmaar,,0,0,1.83,,0,13,6,2186,0.3568161025,0.164684355,0.5215004575,0.3309106983,0.774,22,484,0,,0,5,75
+491,roberts,girona,Patrick Roberts,27100,Girona FC,Inglaterra,0,1,1.67,adidas,0,0,1,410,0,0.1463414634,0.1463414634,0.01973143327,,21,441,0,Extremo derecho,0,5,16
+492,pedrinho,corinthians,Pedrinho,,Sport Club Corinthians Paulista,Brasil,0,1,1.72,,0,1,4,2975,0.02016806723,0.08067226891,0.1008403361,0.02832593712,,20,400,0,Extremo derecho,0,5,1590
+493,rafamir,udlp,Rafa Mir,18100,Unión Deportiva Las Palmas,,0,0,1.91,,0,5,0,1001,0.2997002997,0,0.2997002997,0.2592912705,,21,441,0,,0,5,0
+494,skov,kobenhaven,Robert Skov,4400,Copenhague FC,,0,0,1.83,,0,20,4,2473,0.4852405985,0.09704811969,0.5822887182,0.4329000395,,22,484,0,,0,5,0
+495,martinez,america,Roger Martínez,27100,CF América,Colombia,0,0,1.8,,0,5,1,1593,0.1883239171,0.03766478343,0.2259887006,0.1680103261,,24,576,0,Delantero centro,0,5,1423
+496,ghoddos,amienssc,Saman Ghoddos,18100,SC Amiens,Irán,0,0,1.76,,0,3,4,1184,0.152027027,0.2027027027,0.3547297297,0.1588597024,,25,625,0,Delantero centro,0,5,26
+497,chukwueze ,villarealcf,Samuel Chukwueze,3600,Villarreal CF,,0,0,1.72,,0,7,3,1998,0.2102102102,0.09009009009,0.3003003003,0.194014239,,19,361,0,,0,5,0
+498,weah,celtic,Timothy Weah,6600,Celtic FC,Estados Unidos,0,0,1.85,,0,4,0,253,0.9486166008,0,0.9486166008,0.8207132389,,18,324,0,Delantero centro,0,5,265
+499,lawrence,dcfc,Tom Lawrence,8100,Derby County FC,,0,0,1.75,,0,5,1,1751,0.1713306682,0.03426613364,0.2055968018,0.1528500568,58.2,25,625,0,,0,5,71
+500,thiago,velez,Thiago Almada,880,Club Atletico Vélez Sarsfield,,0,0,1.71,,0,3,2,436,0.4128440367,0.2752293578,0.6880733945,0.3942892485,,17,289,0,,0,,76
